@@ -1,0 +1,9002 @@
+[
+  {
+    "step": 0,
+    "image_path": "demo_data/images/step_0000.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.0,
+      -0.785,
+      0.0,
+      -2.356,
+      0.0,
+      1.571,
+      0.785
+    ],
+    "coverage": 2.25
+  },
+  {
+    "step": 1,
+    "image_path": "demo_data/images/step_0001.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.04798720102396099,
+      -0.7750006666533334,
+      0.0,
+      -2.356,
+      0.0,
+      1.5889973001214974,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 2,
+    "image_path": "demo_data/images/step_0002.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.09589763276300724,
+      -0.7650053329066829,
+      0.0,
+      -2.356,
+      0.0,
+      1.6069784038876667,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 3,
+    "image_path": "demo_data/images/step_0003.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.14365464874670322,
+      -0.7550179967602777,
+      0.0,
+      -2.356,
+      0.0,
+      1.6249271295188066,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 4,
+    "image_path": "demo_data/images/step_0004.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.19118184793709517,
+      -0.7450426530154137,
+      0.0,
+      -2.356,
+      0.0,
+      1.6428273243733515,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 5,
+    "image_path": "demo_data/images/step_0005.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.23840319695407344,
+      -0.7350832916765859,
+      0.0,
+      -2.356,
+      0.0,
+      1.6606628794841596,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 6,
+    "image_path": "demo_data/images/step_0006.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2852431517125615,
+      -0.7251438963555403,
+      0.0,
+      -2.356,
+      0.0,
+      1.6784177440554944,
+      0.785
+    ],
+    "coverage": 3.0
+  },
+  {
+    "step": 7,
+    "image_path": "demo_data/images/step_0007.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3316267782769365,
+      -0.7152284426778818,
+      0.0,
+      -2.356,
+      0.0,
+      1.6960759399076597,
+      0.785
+    ],
+    "coverage": 3.75
+  },
+  {
+    "step": 8,
+    "image_path": "demo_data/images/step_0008.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3774798727393413,
+      -0.705340896692877,
+      0.0,
+      -2.356,
+      0.0,
+      1.7136215758562807,
+      0.785
+    ],
+    "coverage": 3.75
+  },
+  {
+    "step": 9,
+    "image_path": "demo_data/images/step_0009.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.42272907993010794,
+      -0.6954852132870879,
+      0.0,
+      -2.356,
+      0.0,
+      1.7310388620132986,
+      0.785
+    ],
+    "coverage": 3.75
+  },
+  {
+    "step": 10,
+    "image_path": "demo_data/images/step_0010.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4673020107703806,
+      -0.6856653346024695,
+      0.0,
+      -2.356,
+      0.0,
+      1.7483121239968036,
+      0.785
+    ],
+    "coverage": 3.75
+  },
+  {
+    "step": 11,
+    "image_path": "demo_data/images/step_0011.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5111273580791995,
+      -0.6758851884595654,
+      0.0,
+      -2.356,
+      0.0,
+      1.765425817036921,
+      0.785
+    ],
+    "coverage": 4.0
+  },
+  {
+    "step": 12,
+    "image_path": "demo_data/images/step_0012.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5541350106497794,
+      -0.6661486867864328,
+      0.0,
+      -2.356,
+      0.0,
+      1.7823645399650538,
+      0.785
+    ],
+    "coverage": 4.0
+  },
+  {
+    "step": 13,
+    "image_path": "demo_data/images/step_0013.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.596256165412484,
+      -0.6564597240539225,
+      0.0,
+      -2.356,
+      0.0,
+      1.7991130490738967,
+      0.785
+    ],
+    "coverage": 4.0
+  },
+  {
+    "step": 14,
+    "image_path": "demo_data/images/step_0014.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.63742343750506,
+      -0.6468221757179431,
+      0.0,
+      -2.356,
+      0.0,
+      1.815656271835742,
+      0.785
+    ],
+    "coverage": 4.0
+  },
+  {
+    "step": 15,
+    "image_path": "demo_data/images/step_0015.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6775709680740424,
+      -0.6372398966693302,
+      0.0,
+      -2.356,
+      0.0,
+      1.831979320466738,
+      0.785
+    ],
+    "coverage": 4.75
+  },
+  {
+    "step": 16,
+    "image_path": "demo_data/images/step_0016.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7166345296348705,
+      -0.6277167196919411,
+      0.0,
+      -2.356,
+      0.0,
+      1.8480675053248896,
+      0.785
+    ],
+    "coverage": 4.75
+  },
+  {
+    "step": 17,
+    "image_path": "demo_data/images/step_0017.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7545516288221623,
+      -0.6182564539295928,
+      0.0,
+      -2.356,
+      0.0,
+      1.8639063481297444,
+      0.785
+    ],
+    "coverage": 4.75
+  },
+  {
+    "step": 18,
+    "image_path": "demo_data/images/step_0018.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7912616063657677,
+      -0.6088628833624551,
+      0.0,
+      -2.356,
+      0.0,
+      1.879481594991868,
+      0.785
+    ],
+    "coverage": 6.0
+  },
+  {
+    "step": 19,
+    "image_path": "demo_data/images/step_0019.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8267057341326616,
+      -0.5995397652935087,
+      0.0,
+      -2.356,
+      0.0,
+      1.8947792292403816,
+      0.785
+    ],
+    "coverage": 6.0
+  },
+  {
+    "step": 20,
+    "image_path": "demo_data/images/step_0020.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8608273090794273,
+      -0.5902908288456747,
+      0.0,
+      -2.356,
+      0.0,
+      1.9097854840370212,
+      0.785
+    ],
+    "coverage": 6.0
+  },
+  {
+    "step": 21,
+    "image_path": "demo_data/images/step_0021.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8935717439650311,
+      -0.5811197734702149,
+      0.0,
+      -2.356,
+      0.0,
+      1.9244868547653615,
+      0.785
+    ],
+    "coverage": 6.75
+  },
+  {
+    "step": 22,
+    "image_path": "demo_data/images/step_0022.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9248866546787631,
+      -0.5720302674670003,
+      0.0,
+      -2.356,
+      0.0,
+      1.9388701111840603,
+      0.785
+    ],
+    "coverage": 6.75
+  },
+  {
+    "step": 23,
+    "image_path": "demo_data/images/step_0023.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9547219440436392,
+      -0.5630259465172401,
+      0.0,
+      -2.356,
+      0.0,
+      1.9529223093331807,
+      0.785
+    ],
+    "coverage": 7.5
+  },
+  {
+    "step": 24,
+    "image_path": "demo_data/images/step_0024.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9830298819611979,
+      -0.5541104122292586,
+      0.0,
+      -2.356,
+      0.0,
+      1.9666308031828839,
+      0.785
+    ],
+    "coverage": 7.5
+  },
+  {
+    "step": 25,
+    "image_path": "demo_data/images/step_0025.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0097651817694757,
+      -0.5452872306978985,
+      0.0,
+      -2.356,
+      0.0,
+      1.9799832560140005,
+      0.785
+    ],
+    "coverage": 7.5
+  },
+  {
+    "step": 26,
+    "image_path": "demo_data/images/step_0026.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.034885072692006,
+      -0.5365599310781317,
+      0.0,
+      -2.356,
+      0.0,
+      1.992967651520246,
+      0.785
+    ],
+    "coverage": 8.25
+  },
+  {
+    "step": 27,
+    "image_path": "demo_data/images/step_0027.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.058349368261937,
+      -0.5279320041734434,
+      0.0,
+      -2.356,
+      0.0,
+      2.0055723046220852,
+      0.785
+    ],
+    "coverage": 9.0
+  },
+  {
+    "step": 28,
+    "image_path": "demo_data/images/step_0028.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.080120530611806,
+      -0.5194069010395583,
+      0.0,
+      -2.356,
+      0.0,
+      2.0177858719825155,
+      0.785
+    ],
+    "coverage": 9.0
+  },
+  {
+    "step": 29,
+    "image_path": "demo_data/images/step_0029.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1001637305261203,
+      -0.5109880316040633,
+      0.0,
+      -2.356,
+      0.0,
+      2.029597362215303,
+      0.785
+    ],
+    "coverage": 9.75
+  },
+  {
+    "step": 30,
+    "image_path": "demo_data/images/step_0030.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1184469031606714,
+      -0.5026787633024823,
+      0.0,
+      -2.356,
+      0.0,
+      2.04099614577649,
+      0.785
+    ],
+    "coverage": 9.75
+  },
+  {
+    "step": 31,
+    "image_path": "demo_data/images/step_0031.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1349407993394467,
+      -0.4944824197313475,
+      0.0,
+      -2.356,
+      0.0,
+      2.0519719645302663,
+      0.785
+    ],
+    "coverage": 9.75
+  },
+  {
+    "step": 32,
+    "image_path": "demo_data/images/step_0032.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1496190323470699,
+      -0.486402279318804,
+      0.0,
+      -2.356,
+      0.0,
+      2.062514940980599,
+      0.785
+    ],
+    "coverage": 9.75
+  },
+  {
+    "step": 33,
+    "image_path": "demo_data/images/step_0033.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1624581201419182,
+      -0.47844157401328313,
+      0.0,
+      -2.356,
+      0.0,
+      2.0726155871603122,
+      0.785
+    ],
+    "coverage": 10.5
+  },
+  {
+    "step": 34,
+    "image_path": "demo_data/images/step_0034.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1734375229223795,
+      -0.47060348799076573,
+      0.0,
+      -2.356,
+      0.0,
+      2.0822648131696178,
+      0.785
+    ],
+    "coverage": 10.5
+  },
+  {
+    "step": 35,
+    "image_path": "demo_data/images/step_0035.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1825396759861522,
+      -0.46289115638115447,
+      0.0,
+      -2.356,
+      0.0,
+      2.09145393535641,
+      0.785
+    ],
+    "coverage": 10.5
+  },
+  {
+    "step": 36,
+    "image_path": "demo_data/images/step_0036.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1897500178300238,
+      -0.4553076640142635,
+      0.0,
+      -2.356,
+      0.0,
+      2.1001746841309683,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 37,
+    "image_path": "demo_data/images/step_0037.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.195057013445168,
+      -0.4478560441859275,
+      0.0,
+      -2.356,
+      0.0,
+      2.1084192114080285,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 38,
+    "image_path": "demo_data/images/step_0038.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1984521727706996,
+      -0.4405392774447244,
+      0.0,
+      -2.356,
+      0.0,
+      2.1161800976695297,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 39,
+    "image_path": "demo_data/images/step_0039.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1999300642759596,
+      -0.43336029039979496,
+      0.0,
+      -2.356,
+      0.0,
+      2.1234503586416813,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 40,
+    "image_path": "demo_data/images/step_0040.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1994883236498062,
+      -0.42632195455023864,
+      0.0,
+      -2.356,
+      0.0,
+      2.1302234515803358,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 41,
+    "image_path": "demo_data/images/step_0041.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1971276575830083,
+      -0.4194270851365521,
+      0.0,
+      -2.356,
+      0.0,
+      2.1364932811590185,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 42,
+    "image_path": "demo_data/images/step_0042.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.192851842637691,
+      -0.4126784400145704,
+      0.0,
+      -2.356,
+      0.0,
+      2.1422542049543094,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 43,
+    "image_path": "demo_data/images/step_0043.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1866677192056416,
+      -0.40607871855236155,
+      0.0,
+      -2.356,
+      0.0,
+      2.1475010385236435,
+      0.785
+    ],
+    "coverage": 11.25
+  },
+  {
+    "step": 44,
+    "image_path": "demo_data/images/step_0044.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1785851805651422,
+      -0.3996305605505154,
+      0.0,
+      -2.356,
+      0.0,
+      2.152229060070959,
+      0.785
+    ],
+    "coverage": 11.5
+  },
+  {
+    "step": 45,
+    "image_path": "demo_data/images/step_0045.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1686171570538342,
+      -0.3933365451862583,
+      0.0,
+      -2.356,
+      0.0,
+      2.1564340146959955,
+      0.785
+    ],
+    "coverage": 12.25
+  },
+  {
+    "step": 46,
+    "image_path": "demo_data/images/step_0046.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1567795953829376,
+      -0.387199189981817,
+      0.0,
+      -2.356,
+      0.0,
+      2.1601121182234158,
+      0.785
+    ],
+    "coverage": 12.25
+  },
+  {
+    "step": 47,
+    "image_path": "demo_data/images/step_0047.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1430914331259143,
+      -0.38122094979744287,
+      0.0,
+      -2.356,
+      0.0,
+      2.16326006060831,
+      0.785
+    ],
+    "coverage": 12.25
+  },
+  {
+    "step": 48,
+    "image_path": "demo_data/images/step_0048.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.12757456842239,
+      -0.3754042158495009,
+      0.0,
+      -2.356,
+      0.0,
+      2.1658750089150116,
+      0.785
+    ],
+    "coverage": 12.75
+  },
+  {
+    "step": 49,
+    "image_path": "demo_data/images/step_0049.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1102538249458018,
+      -0.3697513147540148,
+      0.0,
+      -2.356,
+      0.0,
+      2.1679546098665483,
+      0.785
+    ],
+    "coverage": 12.75
+  },
+  {
+    "step": 50,
+    "image_path": "demo_data/images/step_0050.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.091156912190818,
+      -0.3642645075960518,
+      0.0,
+      -2.356,
+      0.0,
+      2.1694969919624327,
+      0.785
+    ],
+    "coverage": 12.75
+  },
+  {
+    "step": 51,
+    "image_path": "demo_data/images/step_0051.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0703143811440554,
+      -0.35894598902531855,
+      0.0,
+      -2.356,
+      0.0,
+      2.1705007671628858,
+      0.785
+    ],
+    "coverage": 13.5
+  },
+  {
+    "step": 52,
+    "image_path": "demo_data/images/step_0052.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0477595754090197,
+      -0.3537978863783308,
+      0.0,
+      -2.356,
+      0.0,
+      2.1709650321379796,
+      0.785
+    ],
+    "coverage": 13.5
+  },
+  {
+    "step": 53,
+    "image_path": "demo_data/images/step_0053.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0235285778634513,
+      -0.3488222588275069,
+      0.0,
+      -2.356,
+      0.0,
+      2.1708893690805744,
+      0.785
+    ],
+    "coverage": 14.75
+  },
+  {
+    "step": 54,
+    "image_path": "demo_data/images/step_0054.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9976601529344197,
+      -0.3440210965575263,
+      0.0,
+      -2.356,
+      0.0,
+      2.1702738460823143,
+      0.785
+    ],
+    "coverage": 14.75
+  },
+  {
+    "step": 55,
+    "image_path": "demo_data/images/step_0055.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.970195684583508,
+      -0.3393963199692823,
+      0.0,
+      -2.356,
+      0.0,
+      2.1691190170723513,
+      0.785
+    ],
+    "coverage": 15.5
+  },
+  {
+    "step": 56,
+    "image_path": "demo_data/images/step_0056.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9411791101013037,
+      -0.3349497789117475,
+      0.0,
+      -2.356,
+      0.0,
+      2.1674259213188454,
+      0.785
+    ],
+    "coverage": 15.5
+  },
+  {
+    "step": 57,
+    "image_path": "demo_data/images/step_0057.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9106568498171062,
+      -0.3306832519420584,
+      0.0,
+      -2.356,
+      0.0,
+      2.165196082493695,
+      0.785
+    ],
+    "coverage": 16.25
+  },
+  {
+    "step": 58,
+    "image_path": "demo_data/images/step_0058.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8786777328363017,
+      -0.3265984456141166,
+      0.0,
+      -2.356,
+      0.0,
+      2.1624315073013323,
+      0.785
+    ],
+    "coverage": 17.0
+  },
+  {
+    "step": 59,
+    "image_path": "demo_data/images/step_0059.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8452929189242114,
+      -0.3226969937959899,
+      0.0,
+      -2.356,
+      0.0,
+      2.159134683672827,
+      0.785
+    ],
+    "coverage": 17.0
+  },
+  {
+    "step": 60,
+    "image_path": "demo_data/images/step_0060.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8105558166613811,
+      -0.3189804570163869,
+      0.0,
+      -2.356,
+      0.0,
+      2.155308578526917,
+      0.785
+    ],
+    "coverage": 17.75
+  },
+  {
+    "step": 61,
+    "image_path": "demo_data/images/step_0061.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7745219980012448,
+      -0.31545032184046623,
+      0.0,
+      -2.356,
+      0.0,
+      2.1509566350999787,
+      0.785
+    ],
+    "coverage": 17.75
+  },
+  {
+    "step": 62,
+    "image_path": "demo_data/images/step_0062.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7372491093668541,
+      -0.31210800027523056,
+      0.0,
+      -2.356,
+      0.0,
+      2.1460827698473484,
+      0.785
+    ],
+    "coverage": 18.5
+  },
+  {
+    "step": 63,
+    "image_path": "demo_data/images/step_0063.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6987967794288982,
+      -0.30895482920474215,
+      0.0,
+      -2.356,
+      0.0,
+      2.140691368918778,
+      0.785
+    ],
+    "coverage": 19.75
+  },
+  {
+    "step": 64,
+    "image_path": "demo_data/images/step_0064.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6592265237125519,
+      -0.30599206985538757,
+      0.0,
+      -2.356,
+      0.0,
+      2.134787284211195,
+      0.785
+    ],
+    "coverage": 19.75
+  },
+  {
+    "step": 65,
+    "image_path": "demo_data/images/step_0065.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.618601646185757,
+      -0.30322090729140355,
+      0.0,
+      -2.356,
+      0.0,
+      2.1283758290023216,
+      0.785
+    ],
+    "coverage": 20.5
+  },
+  {
+    "step": 66,
+    "image_path": "demo_data/images/step_0066.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5769871379863779,
+      -0.3006424499408674,
+      0.0,
+      -2.356,
+      0.0,
+      2.121462773169086,
+      0.785
+    ],
+    "coverage": 20.5
+  },
+  {
+    "step": 67,
+    "image_path": "demo_data/images/step_0067.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5344495734502454,
+      -0.29825772915234033,
+      0.0,
+      -2.356,
+      0.0,
+      2.1140543379951207,
+      0.785
+    ],
+    "coverage": 21.25
+  },
+  {
+    "step": 68,
+    "image_path": "demo_data/images/step_0068.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.49105700360642074,
+      -0.2960676987823419,
+      0.0,
+      -2.356,
+      0.0,
+      2.1061571905720275,
+      0.785
+    ],
+    "coverage": 21.25
+  },
+  {
+    "step": 69,
+    "image_path": "demo_data/images/step_0069.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4468788473100664,
+      -0.29407323481382014,
+      0.0,
+      -2.356,
+      0.0,
+      2.097778437799447,
+      0.785
+    ],
+    "coverage": 22.0
+  },
+  {
+    "step": 70,
+    "image_path": "demo_data/images/step_0070.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4019857801870856,
+      -0.2922751350057699,
+      0.0,
+      -2.356,
+      0.0,
+      2.088925619989324,
+      0.785
+    ],
+    "coverage": 22.0
+  },
+  {
+    "step": 71,
+    "image_path": "demo_data/images/step_0071.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.35644962156819887,
+      -0.29067411857414016,
+      0.0,
+      -2.356,
+      0.0,
+      2.079606704080142,
+      0.785
+    ],
+    "coverage": 22.0
+  },
+  {
+    "step": 72,
+    "image_path": "demo_data/images/step_0072.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.310343219593333,
+      -0.2892708259041568,
+      0.0,
+      -2.356,
+      0.0,
+      2.06983007646721,
+      0.785
+    ],
+    "coverage": 22.0
+  },
+  {
+    "step": 73,
+    "image_path": "demo_data/images/step_0073.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2637403346701403,
+      -0.2880658182941776,
+      0.0,
+      -2.356,
+      0.0,
+      2.0596045354554775,
+      0.785
+    ],
+    "coverage": 22.0
+  },
+  {
+    "step": 74,
+    "image_path": "demo_data/images/step_0074.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2167155214730795,
+      -0.28705957773118,
+      0.0,
+      -2.356,
+      0.0,
+      2.048939283341652,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 75,
+    "image_path": "demo_data/images/step_0075.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.16934400967184066,
+      -0.2862525066979728,
+      0.0,
+      -2.356,
+      0.0,
+      2.0378439181327526,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 76,
+    "image_path": "demo_data/images/step_0076.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.12170158357992222,
+      -0.28564492801220853,
+      0.0,
+      -2.356,
+      0.0,
+      2.026328424908553,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 77,
+    "image_path": "demo_data/images/step_0077.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.07386446091589577,
+      -0.2852370846972605,
+      0.0,
+      -2.356,
+      0.0,
+      2.0144031668356823,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 78,
+    "image_path": "demo_data/images/step_0078.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.02590917087131515,
+      -0.2850291398850169,
+      0.0,
+      -2.356,
+      0.0,
+      2.002078875841476,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 79,
+    "image_path": "demo_data/images/step_0079.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.02208756831966457,
+      -0.28502117675063,
+      0.0,
+      -2.356,
+      0.0,
+      1.9893666429559627,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 80,
+    "image_path": "demo_data/images/step_0080.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.0700489721130961,
+      -0.2852131984792475,
+      0.0,
+      -2.356,
+      0.0,
+      1.9762779083306905,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 81,
+    "image_path": "demo_data/images/step_0081.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.11789831249413041,
+      -0.28560512826473805,
+      0.0,
+      -2.356,
+      0.0,
+      1.962824450943359,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 82,
+    "image_path": "demo_data/images/step_0082.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.16555904072547273,
+      -0.2861968093404132,
+      0.0,
+      -2.356,
+      0.0,
+      1.9490183779975352,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 83,
+    "image_path": "demo_data/images/step_0083.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.2129549098090327,
+      -0.28698800504173166,
+      0.0,
+      -2.356,
+      0.0,
+      1.9348721140269889,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 84,
+    "image_path": "demo_data/images/step_0084.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.2600100964648555,
+      -0.28797839890096205,
+      0.0,
+      -2.356,
+      0.0,
+      1.920398389714449,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 85,
+    "image_path": "demo_data/images/step_0085.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.30664932243219745,
+      -0.28916759477376575,
+      0.0,
+      -2.356,
+      0.0,
+      1.9056102304348501,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 86,
+    "image_path": "demo_data/images/step_0086.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.35279797489868114,
+      -0.2905551169976493,
+      0.0,
+      -2.356,
+      0.0,
+      1.8905209445333726,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 87,
+    "image_path": "demo_data/images/step_0087.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.39838222586488087,
+      -0.2921404105822233,
+      0.0,
+      -2.356,
+      0.0,
+      1.875144111348832,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 88,
+    "image_path": "demo_data/images/step_0088.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.44332915025337255,
+      -0.2939228414311908,
+      0.0,
+      -2.356,
+      0.0,
+      1.859493568993189,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 89,
+    "image_path": "demo_data/images/step_0089.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.48756684257330013,
+      -0.2959016965959777,
+      0.0,
+      -2.356,
+      0.0,
+      1.8435834018981838,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 90,
+    "image_path": "demo_data/images/step_0090.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5310245319538229,
+      -0.29807618456090246,
+      0.0,
+      -2.356,
+      0.0,
+      1.827427928140298,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 91,
+    "image_path": "demo_data/images/step_0091.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5736326953624115,
+      -0.3004454355597719,
+      0.0,
+      -2.356,
+      0.0,
+      1.8110416865554517,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 92,
+    "image_path": "demo_data/images/step_0092.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6153231688268685,
+      -0.303008501923776,
+      0.0,
+      -2.356,
+      0.0,
+      1.7944394236550334,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 93,
+    "image_path": "demo_data/images/step_0093.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6560292564831446,
+      -0.30576435846054295,
+      0.0,
+      -2.356,
+      0.0,
+      1.777636080355034,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 94,
+    "image_path": "demo_data/images/step_0094.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6956858372744917,
+      -0.30871190286420236,
+      0.0,
+      -2.356,
+      0.0,
+      1.7606467785302322,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 95,
+    "image_path": "demo_data/images/step_0095.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7342294691312631,
+      -0.3118499561562928,
+      0.0,
+      -2.356,
+      0.0,
+      1.7434868074055265,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 96,
+    "image_path": "demo_data/images/step_0096.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7715984904646905,
+      -0.3151772631573376,
+      0.0,
+      -2.356,
+      0.0,
+      1.7261716097966664,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 97,
+    "image_path": "demo_data/images/step_0097.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8077331188122739,
+      -0.3186924929888998,
+      0.0,
+      -2.356,
+      0.0,
+      1.7087167682127586,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 98,
+    "image_path": "demo_data/images/step_0098.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8425755464769665,
+      -0.3223942396059159,
+      0.0,
+      -2.356,
+      0.0,
+      1.6911379908330622,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 99,
+    "image_path": "demo_data/images/step_0099.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8760700330071595,
+      -0.3262810223590951,
+      0.0,
+      -2.356,
+      0.0,
+      1.6734510973706873,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 100,
+    "image_path": "demo_data/images/step_0100.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9081629943695138,
+      -0.3303512865871592,
+      0.0,
+      -2.356,
+      0.0,
+      1.6556720048359204,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 101,
+    "image_path": "demo_data/images/step_0101.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9388030886719834,
+      -0.3346034042386864,
+      0.0,
+      -2.356,
+      0.0,
+      1.6378167132119898,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 102,
+    "image_path": "demo_data/images/step_0102.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9679412982998886,
+      -0.33903567452331024,
+      0.0,
+      -2.356,
+      0.0,
+      1.6199012910561614,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 103,
+    "image_path": "demo_data/images/step_0103.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.995531008333645,
+      -0.343646324592013,
+      0.0,
+      -2.356,
+      0.0,
+      1.6019418610391207,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 104,
+    "image_path": "demo_data/images/step_0104.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0215280811226892,
+      -0.3484335102462418,
+      0.0,
+      -2.356,
+      0.0,
+      1.5839545854356576,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 105,
+    "image_path": "demo_data/images/step_0105.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0458909268963057,
+      -0.3533953166755632,
+      0.0,
+      -2.356,
+      0.0,
+      1.5659556515797108,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 106,
+    "image_path": "demo_data/images/step_0106.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0685805702983862,
+      -0.35852975922356195,
+      0.0,
+      -2.356,
+      0.0,
+      1.547961257296859,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 107,
+    "image_path": "demo_data/images/step_0107.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0895607127396865,
+      -0.3638347841816772,
+      0.0,
+      -2.356,
+      0.0,
+      1.5299875963273712,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 108,
+    "image_path": "demo_data/images/step_0108.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1087977904678255,
+      -0.3693082696106585,
+      0.0,
+      -2.356,
+      0.0,
+      1.512050843752935,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 109,
+    "image_path": "demo_data/images/step_0109.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1262610282621295,
+      -0.37494802618931294,
+      0.0,
+      -2.356,
+      0.0,
+      1.494167141440172,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 110,
+    "image_path": "demo_data/images/step_0110.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.141922488667419,
+      -0.380751798090205,
+      0.0,
+      -2.356,
+      0.0,
+      1.476352583514051,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 111,
+    "image_path": "demo_data/images/step_0111.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1557571166879799,
+      -0.38671726388195676,
+      0.0,
+      -2.356,
+      0.0,
+      1.458623201874258,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 112,
+    "image_path": "demo_data/images/step_0112.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1677427798702087,
+      -0.3928420374577901,
+      0.0,
+      -2.356,
+      0.0,
+      1.4409949517675722,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 113,
+    "image_path": "demo_data/images/step_0113.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1778603037098185,
+      -0.3991236689899372,
+      0.0,
+      -2.356,
+      0.0,
+      1.423483697429218,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 114,
+    "image_path": "demo_data/images/step_0114.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1860935023269568,
+      -0.40555964590953913,
+      0.0,
+      -2.356,
+      0.0,
+      1.4061051978061256,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 115,
+    "image_path": "demo_data/images/step_0115.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1924292043601574,
+      -0.41214739391164,
+      0.0,
+      -2.356,
+      0.0,
+      1.3888750923749427,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 116,
+    "image_path": "demo_data/images/step_0116.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.196857274037712,
+      -0.4188842779848743,
+      0.0,
+      -2.356,
+      0.0,
+      1.3718088870675595,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 117,
+    "image_path": "demo_data/images/step_0117.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1993706273927407,
+      -0.4257676034654369,
+      0.0,
+      -2.356,
+      0.0,
+      1.3549219403168191,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 118,
+    "image_path": "demo_data/images/step_0118.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1999652435960293,
+      -0.4327946171149119,
+      0.0,
+      -2.356,
+      0.0,
+      1.3382294492349618,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 119,
+    "image_path": "demo_data/images/step_0119.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1986401713884969,
+      -0.4399625082215318,
+      0.0,
+      -2.356,
+      0.0,
+      1.3217464359372524,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 120,
+    "image_path": "demo_data/images/step_0120.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1953975306030087,
+      -0.44726840972442455,
+      0.0,
+      -2.356,
+      0.0,
+      1.3054877340230888,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 121,
+    "image_path": "demo_data/images/step_0121.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.190242508773095,
+      -0.45470939936039967,
+      0.0,
+      -2.356,
+      0.0,
+      1.2894679752267637,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 122,
+    "image_path": "demo_data/images/step_0122.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1831833528340043,
+      -0.4622825008328147,
+      0.0,
+      -2.356,
+      0.0,
+      1.273701576249893,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 123,
+    "image_path": "demo_data/images/step_0123.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1742313559293662,
+      -0.4699846850020539,
+      0.0,
+      -2.356,
+      0.0,
+      1.258202725787356,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 124,
+    "image_path": "demo_data/images/step_0124.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1634008393445705,
+      -0.47781287109714415,
+      0.0,
+      -2.356,
+      0.0,
+      1.2429853717584278,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 125,
+    "image_path": "demo_data/images/step_0125.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.150709129595766,
+      -0.48576392794802176,
+      0.0,
+      -2.356,
+      0.0,
+      1.2280632087545937,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 126,
+    "image_path": "demo_data/images/step_0126.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1361765307111307,
+      -0.4938346752379591,
+      0.0,
+      -2.356,
+      0.0,
+      1.2134496657153417,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 127,
+    "image_path": "demo_data/images/step_0127.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1198262917487571,
+      -0.5020218847756486,
+      0.0,
+      -2.356,
+      0.0,
+      1.199157893843022,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 128,
+    "image_path": "demo_data/images/step_0128.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1016845696031203,
+      -0.5103222817864368,
+      0.0,
+      -2.356,
+      0.0,
+      1.1852007547676546,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 129,
+    "image_path": "demo_data/images/step_0129.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0817803871596257,
+      -0.5187325462221895,
+      0.0,
+      -2.356,
+      0.0,
+      1.1715908089723286,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 130,
+    "image_path": "demo_data/images/step_0130.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0601455868641838,
+      -0.527249314089268,
+      0.0,
+      -2.356,
+      0.0,
+      1.1583403044896157,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 131,
+    "image_path": "demo_data/images/step_0131.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0368147797820892,
+      -0.5358691787940808,
+      0.0,
+      -2.356,
+      0.0,
+      1.1454611658791685,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 132,
+    "image_path": "demo_data/images/step_0132.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0118252902277,
+      -0.5445886925056759,
+      0.0,
+      -2.356,
+      0.0,
+      1.1329649834964202,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 133,
+    "image_path": "demo_data/images/step_0133.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9852170960534964,
+      -0.5534043675348275,
+      0.0,
+      -2.356,
+      0.0,
+      1.1208630030620488,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 134,
+    "image_path": "demo_data/images/step_0134.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9570327646940451,
+      -0.5623126777290645,
+      0.0,
+      -2.356,
+      0.0,
+      1.1091661155415857,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 135,
+    "image_path": "demo_data/images/step_0135.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9273173850671845,
+      -0.5713100598830851,
+      0.0,
+      -2.356,
+      0.0,
+      1.0978848473442828,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 136,
+    "image_path": "demo_data/images/step_0136.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8961184954413747,
+      -0.5803929151639914,
+      0.0,
+      -2.356,
+      0.0,
+      1.0870293508500557,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 137,
+    "image_path": "demo_data/images/step_0137.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.863486007384609,
+      -0.5895576105507739,
+      0.0,
+      -2.356,
+      0.0,
+      1.076609395273025,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 138,
+    "image_path": "demo_data/images/step_0138.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8294721259165517,
+      -0.5988004802874723,
+      0.0,
+      -2.356,
+      0.0,
+      1.0666343578698831,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 139,
+    "image_path": "demo_data/images/step_0139.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7941312659916443,
+      -0.6081178273494287,
+      0.0,
+      -2.356,
+      0.0,
+      1.0571132155009992,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 140,
+    "image_path": "demo_data/images/step_0140.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.757519965446785,
+      -0.6175059249220477,
+      0.0,
+      -2.356,
+      0.0,
+      1.048054536551847,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 141,
+    "image_path": "demo_data/images/step_0141.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7196967945528525,
+      -0.6269610178914731,
+      0.0,
+      -2.356,
+      0.0,
+      1.0394664732220387,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 142,
+    "image_path": "demo_data/images/step_0142.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6807222623147623,
+      -0.6364793243465838,
+      0.0,
+      -2.356,
+      0.0,
+      1.0313567541888933,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 143,
+    "image_path": "demo_data/images/step_0143.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6406587196699731,
+      -0.6460570370917067,
+      0.0,
+      -2.356,
+      0.0,
+      1.0237326776521518,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 144,
+    "image_path": "demo_data/images/step_0144.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5995702597402829,
+      -0.6556903251694446,
+      0.0,
+      -2.356,
+      0.0,
+      1.0166011047660872,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 145,
+    "image_path": "demo_data/images/step_0145.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5575226152965088,
+      -0.6653753353930089,
+      0.0,
+      -2.356,
+      0.0,
+      1.0099684534649307,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 146,
+    "image_path": "demo_data/images/step_0146.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5145830536000751,
+      -0.6751081938874416,
+      0.0,
+      -2.356,
+      0.0,
+      1.0038406926871621,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 147,
+    "image_path": "demo_data/images/step_0147.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4708202687897446,
+      -0.6848850076391148,
+      0.0,
+      -2.356,
+      0.0,
+      0.9982233370038701,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 148,
+    "image_path": "demo_data/images/step_0148.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4263042719856512,
+      -0.6947018660528835,
+      0.0,
+      -2.356,
+      0.0,
+      0.9931214416560101,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 149,
+    "image_path": "demo_data/images/step_0149.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.3811062792864418,
+      -0.7045548425162722,
+      0.0,
+      -2.356,
+      0.0,
+      0.988539598005027,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 150,
+    "image_path": "demo_data/images/step_0150.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.335298597838711,
+      -0.7144399959700665,
+      0.0,
+      -2.356,
+      0.0,
+      0.9844819294009418,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 151,
+    "image_path": "demo_data/images/step_0151.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.288954510160991,
+      -0.7243533724846851,
+      0.0,
+      -2.356,
+      0.0,
+      0.9809520874716136,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 152,
+    "image_path": "demo_data/images/step_0152.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.24214815690735467,
+      -0.7342910068416991,
+      0.0,
+      -2.356,
+      0.0,
+      0.9779532488365217,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 153,
+    "image_path": "demo_data/images/step_0153.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.19495441825818502,
+      -0.7442489241198654,
+      0.0,
+      -2.356,
+      0.0,
+      0.9754881122480221,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 154,
+    "image_path": "demo_data/images/step_0154.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.14744879412786005,
+      -0.7542231412850434,
+      0.0,
+      -2.356,
+      0.0,
+      0.9735588961626528,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 155,
+    "image_path": "demo_data/images/step_0155.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.09970728338099567,
+      -0.7642096687833548,
+      0.0,
+      -2.356,
+      0.0,
+      0.9721673367446724,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 156,
+    "image_path": "demo_data/images/step_0156.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.05180626225047442,
+      -0.7742045121369521,
+      0.0,
+      -2.356,
+      0.0,
+      0.9713146863036296,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 157,
+    "image_path": "demo_data/images/step_0157.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.003822362151765588,
+      -0.7842036735417566,
+      0.0,
+      -2.356,
+      0.0,
+      0.9710017121673692,
+      0.785
+    ],
+    "coverage": 22.5
+  },
+  {
+    "step": 158,
+    "image_path": "demo_data/images/step_0158.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.0441676529109923,
+      -0.7942031534665269,
+      0.0,
+      -2.356,
+      0.0,
+      0.9712286959914888,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 159,
+    "image_path": "demo_data/images/step_0159.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.0920870091510227,
+      -0.8041989522526177,
+      0.0,
+      -2.356,
+      0.0,
+      0.9719954335058675,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 160,
+    "image_path": "demo_data/images/step_0160.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.13985904582059236,
+      -0.8141870717137901,
+      0.0,
+      -2.356,
+      0.0,
+      0.9733012346984956,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 161,
+    "image_path": "demo_data/images/step_0161.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1874073378518543,
+      -0.8241635167354326,
+      0.0,
+      -2.356,
+      0.0,
+      0.9751449244364387,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 162,
+    "image_path": "demo_data/images/step_0162.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2346558181206531,
+      -0.8341242968725544,
+      0.0,
+      -2.356,
+      0.0,
+      0.977524843523378,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 163,
+    "image_path": "demo_data/images/step_0163.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.28152889913769696,
+      -0.8440654279459089,
+      0.0,
+      -2.356,
+      0.0,
+      0.980438850192775,
+      0.785
+    ],
+    "coverage": 23.25
+  },
+  {
+    "step": 164,
+    "image_path": "demo_data/images/step_0164.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3279515939724159,
+      -0.8539829336356137,
+      0.0,
+      -2.356,
+      0.0,
+      0.9838843220353168,
+      0.785
+    ],
+    "coverage": 23.5
+  },
+  {
+    "step": 165,
+    "image_path": "demo_data/images/step_0165.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.37384963621605444,
+      -0.8638728470716244,
+      0.0,
+      -2.356,
+      0.0,
+      0.9878581583589074,
+      0.785
+    ],
+    "coverage": 23.5
+  },
+  {
+    "step": 166,
+    "image_path": "demo_data/images/step_0166.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.41914959879208286,
+      -0.8737312124204303,
+      0.0,
+      -2.356,
+      0.0,
+      0.9923567829790816,
+      0.785
+    ],
+    "coverage": 23.5
+  },
+  {
+    "step": 167,
+    "image_path": "demo_data/images/step_0167.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4637790114238552,
+      -0.8835540864673349,
+      0.0,
+      -2.356,
+      0.0,
+      0.9973761474373292,
+      0.785
+    ],
+    "coverage": 24.75
+  },
+  {
+    "step": 168,
+    "image_path": "demo_data/images/step_0168.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5076664765715961,
+      -0.8933375401936898,
+      0.0,
+      -2.356,
+      0.0,
+      1.0029117346444347,
+      0.785
+    ],
+    "coverage": 24.75
+  },
+  {
+    "step": 169,
+    "image_path": "demo_data/images/step_0169.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5507417836532283,
+      -0.9030776603484485,
+      0.0,
+      -2.356,
+      0.0,
+      1.0089585629455524,
+      0.785
+    ],
+    "coverage": 24.75
+  },
+  {
+    "step": 170,
+    "image_path": "demo_data/images/step_0170.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5929360213663297,
+      -0.9127705510134156,
+      0.0,
+      -2.356,
+      0.0,
+      1.0155111906033605,
+      0.785
+    ],
+    "coverage": 24.75
+  },
+  {
+    "step": 171,
+    "image_path": "demo_data/images/step_0171.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6341816879315169,
+      -0.9224123351615621,
+      0.0,
+      -2.356,
+      0.0,
+      1.0225637206952558,
+      0.785
+    ],
+    "coverage": 25.5
+  },
+  {
+    "step": 172,
+    "image_path": "demo_data/images/step_0172.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6744127990808916,
+      -0.9319991562077838,
+      0.0,
+      -2.356,
+      0.0,
+      1.030109806420187,
+      0.785
+    ],
+    "coverage": 25.5
+  },
+  {
+    "step": 173,
+    "image_path": "demo_data/images/step_0173.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7135649936187943,
+      -0.9415271795514851,
+      0.0,
+      -2.356,
+      0.0,
+      1.0381426568103471,
+      0.785
+    ],
+    "coverage": 25.5
+  },
+  {
+    "step": 174,
+    "image_path": "demo_data/images/step_0174.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.751575636385987,
+      -0.9509925941103671,
+      0.0,
+      -2.356,
+      0.0,
+      1.0466550428425867,
+      0.785
+    ],
+    "coverage": 26.25
+  },
+  {
+    "step": 175,
+    "image_path": "demo_data/images/step_0175.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7883839184625469,
+      -0.96039161384481,
+      0.0,
+      -2.356,
+      0.0,
+      1.0556393039440448,
+      0.785
+    ],
+    "coverage": 26.25
+  },
+  {
+    "step": 176,
+    "image_path": "demo_data/images/step_0176.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8239309544491661,
+      -0.9697204792722386,
+      0.0,
+      -2.356,
+      0.0,
+      1.0650873548861497,
+      0.785
+    ],
+    "coverage": 27.0
+  },
+  {
+    "step": 177,
+    "image_path": "demo_data/images/step_0177.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8581598766712294,
+      -0.9789754589708652,
+      0.0,
+      -2.356,
+      0.0,
+      1.0749906930607782,
+      0.785
+    ],
+    "coverage": 27.750000000000004
+  },
+  {
+    "step": 178,
+    "image_path": "demo_data/images/step_0178.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8910159261549622,
+      -0.9881528510722084,
+      0.0,
+      -2.356,
+      0.0,
+      1.0853404061320284,
+      0.785
+    ],
+    "coverage": 27.750000000000004
+  },
+  {
+    "step": 179,
+    "image_path": "demo_data/images/step_0179.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.922446540230107,
+      -0.9972489847417914,
+      0.0,
+      -2.356,
+      0.0,
+      1.0961271800567203,
+      0.785
+    ],
+    "coverage": 27.750000000000004
+  },
+  {
+    "step": 180,
+    "image_path": "demo_data/images/step_0180.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9524014366189837,
+      -1.0062602216474263,
+      0.0,
+      -2.356,
+      0.0,
+      1.1073413074664074,
+      0.785
+    ],
+    "coverage": 27.750000000000004
+  },
+  {
+    "step": 181,
+    "image_path": "demo_data/images/step_0181.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9808326938774075,
+      -1.0151829574144993,
+      0.0,
+      -2.356,
+      0.0,
+      1.1189726964033522,
+      0.785
+    ],
+    "coverage": 28.499999999999996
+  },
+  {
+    "step": 182,
+    "image_path": "demo_data/images/step_0182.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0076948280587759,
+      -1.0240136230676715,
+      0.0,
+      -2.356,
+      0.0,
+      1.1310108794026061,
+      0.785
+    ],
+    "coverage": 28.499999999999996
+  },
+  {
+    "step": 183,
+    "image_path": "demo_data/images/step_0183.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.032944865478682,
+      -1.0327486864584225,
+      0.0,
+      -2.356,
+      0.0,
+      1.143445022912023,
+      0.785
+    ],
+    "coverage": 28.499999999999996
+  },
+  {
+    "step": 184,
+    "image_path": "demo_data/images/step_0184.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0565424114636413,
+      -1.041384653677862,
+      0.0,
+      -2.356,
+      0.0,
+      1.1562639370417238,
+      0.785
+    ],
+    "coverage": 29.25
+  },
+  {
+    "step": 185,
+    "image_path": "demo_data/images/step_0185.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0784497149739523,
+      -1.0499180704542468,
+      0.0,
+      -2.356,
+      0.0,
+      1.1694560856342426,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 186,
+    "image_path": "demo_data/images/step_0186.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0986317289973075,
+      -1.0583455235346437,
+      0.0,
+      -2.356,
+      0.0,
+      1.18300959664629,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 187,
+    "image_path": "demo_data/images/step_0187.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1170561666165364,
+      -1.0666636420501852,
+      0.0,
+      -2.356,
+      0.0,
+      1.1969122728327883,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 188,
+    "image_path": "demo_data/images/step_0188.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1336935526617848,
+      -1.0748690988643717,
+      0.0,
+      -2.356,
+      0.0,
+      1.2111516027235738,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 189,
+    "image_path": "demo_data/images/step_0189.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1485172708645006,
+      -1.082958611903882,
+      0.0,
+      -2.356,
+      0.0,
+      1.2257147718828696,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 190,
+    "image_path": "demo_data/images/step_0190.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1615036064377837,
+      -1.0909289454713598,
+      0.0,
+      -2.356,
+      0.0,
+      1.2405886744414174,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 191,
+    "image_path": "demo_data/images/step_0191.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1726317840149876,
+      -1.0987769115396469,
+      0.0,
+      -2.356,
+      0.0,
+      1.255759924890872,
+      0.785
+    ],
+    "coverage": 30.0
+  },
+  {
+    "step": 192,
+    "image_path": "demo_data/images/step_0192.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1818840008858729,
+      -1.1064993710269544,
+      0.0,
+      -2.356,
+      0.0,
+      1.2712148701298585,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 193,
+    "image_path": "demo_data/images/step_0193.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1892454554771477,
+      -1.1140932350524526,
+      0.0,
+      -2.356,
+      0.0,
+      1.286939601750839,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 194,
+    "image_path": "demo_data/images/step_0194.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1947043710318257,
+      -1.1215554661717808,
+      0.0,
+      -2.356,
+      0.0,
+      1.3029199685567414,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 195,
+    "image_path": "demo_data/images/step_0195.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.198252014449526,
+      -1.1288830795919869,
+      0.0,
+      -2.356,
+      0.0,
+      1.319141589296084,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 196,
+    "image_path": "demo_data/images/step_0196.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1998827102575702,
+      -1.1360731443654029,
+      0.0,
+      -2.356,
+      0.0,
+      1.3355898656051277,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 197,
+    "image_path": "demo_data/images/step_0197.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.199593849690529,
+      -1.1431227845619854,
+      0.0,
+      -2.356,
+      0.0,
+      1.3522499951454192,
+      0.785
+    ],
+    "coverage": 30.5
+  },
+  {
+    "step": 198,
+    "image_path": "demo_data/images/step_0198.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.197385894863689,
+      -1.1500291804196499,
+      0.0,
+      -2.356,
+      0.0,
+      1.369106984924897,
+      0.785
+    ],
+    "coverage": 31.0
+  },
+  {
+    "step": 199,
+    "image_path": "demo_data/images/step_0199.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1932623780337686,
+      -1.1567895694721373,
+      0.0,
+      -2.356,
+      0.0,
+      1.386145664790573,
+      0.785
+    ],
+    "coverage": 31.0
+  },
+  {
+    "step": 200,
+    "image_path": "demo_data/images/step_0200.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.187229895948058,
+      -1.1634012476539641,
+      0.0,
+      -2.356,
+      0.0,
+      1.4033507010806445,
+      0.785
+    ],
+    "coverage": 31.0
+  },
+  {
+    "step": 201,
+    "image_path": "demo_data/images/step_0201.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1792980992910342,
+      -1.1698615703820123,
+      0.0,
+      -2.356,
+      0.0,
+      1.4207066104237545,
+      0.785
+    ],
+    "coverage": 31.0
+  },
+  {
+    "step": 202,
+    "image_path": "demo_data/images/step_0202.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.169479677245322,
+      -1.1761679536133265,
+      0.0,
+      -2.356,
+      0.0,
+      1.4381977736729843,
+      0.785
+    ],
+    "coverage": 31.0
+  },
+  {
+    "step": 203,
+    "image_path": "demo_data/images/step_0203.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1577903371917089,
+      -1.1823178748786987,
+      0.0,
+      -2.356,
+      0.0,
+      1.455808449962027,
+      0.785
+    ],
+    "coverage": 31.5
+  },
+  {
+    "step": 204,
+    "image_path": "demo_data/images/step_0204.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.144248779580689,
+      -1.1883088742916204,
+      0.0,
+      -2.356,
+      0.0,
+      1.4735227908709074,
+      0.785
+    ],
+    "coverage": 31.5
+  },
+  {
+    "step": 205,
+    "image_path": "demo_data/images/step_0205.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1288766680157276,
+      -1.1941385555322053,
+      0.0,
+      -2.356,
+      0.0,
+      1.4913248546884894,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 206,
+    "image_path": "demo_data/images/step_0206.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1116985945961193,
+      -1.1998045868056855,
+      0.0,
+      -2.356,
+      0.0,
+      1.5091986207589412,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 207,
+    "image_path": "demo_data/images/step_0207.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0927420405748764,
+      -1.2053047017750973,
+      0.0,
+      -2.356,
+      0.0,
+      1.527128003899242,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 208,
+    "image_path": "demo_data/images/step_0208.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0720373323945822,
+      -1.2106367004677874,
+      0.0,
+      -2.356,
+      0.0,
+      1.5450968688747628,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 209,
+    "image_path": "demo_data/images/step_0209.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0496175931715583,
+      -1.2157984501553702,
+      0.0,
+      -2.356,
+      0.0,
+      1.5630890449198866,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 210,
+    "image_path": "demo_data/images/step_0210.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0255186897059365,
+      -1.2207878862067942,
+      0.0,
+      -2.356,
+      0.0,
+      1.5810883402906097,
+      0.785
+    ],
+    "coverage": 32.25
+  },
+  {
+    "step": 211,
+    "image_path": "demo_data/images/step_0211.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9997791751024391,
+      -1.2256030129141626,
+      0.0,
+      -2.356,
+      0.0,
+      1.599078556836014,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 212,
+    "image_path": "demo_data/images/step_0212.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9724402270936258,
+      -1.2302419042909942,
+      0.0,
+      -2.356,
+      0.0,
+      1.6170435045755107,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 213,
+    "image_path": "demo_data/images/step_0213.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.943545582164315,
+      -1.234702704842589,
+      0.0,
+      -2.356,
+      0.0,
+      1.6349670162687335,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 214,
+    "image_path": "demo_data/images/step_0214.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9131414655825292,
+      -1.2389836303082027,
+      0.0,
+      -2.356,
+      0.0,
+      1.6528329619649584,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 215,
+    "image_path": "demo_data/images/step_0215.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.881276517448936,
+      -1.2430829683747275,
+      0.0,
+      -2.356,
+      0.0,
+      1.6706252635189742,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 216,
+    "image_path": "demo_data/images/step_0216.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8480017148830535,
+      -1.246999079361594,
+      0.0,
+      -2.356,
+      0.0,
+      1.688327909060326,
+      0.785
+    ],
+    "coverage": 33.5
+  },
+  {
+    "step": 217,
+    "image_path": "demo_data/images/step_0217.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8133702904707442,
+      -1.2507303968766212,
+      0.0,
+      -2.356,
+      0.0,
+      1.7059249674029202,
+      0.785
+    ],
+    "coverage": 34.25
+  },
+  {
+    "step": 218,
+    "image_path": "demo_data/images/step_0218.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7774376471034211,
+      -1.254275428442554,
+      0.0,
+      -2.356,
+      0.0,
+      1.7234006023820139,
+      0.785
+    ],
+    "coverage": 35.0
+  },
+  {
+    "step": 219,
+    "image_path": "demo_data/images/step_0219.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7402612693452537,
+      -1.2576327560940317,
+      0.0,
+      -2.356,
+      0.0,
+      1.7407390871056951,
+      0.785
+    ],
+    "coverage": 35.0
+  },
+  {
+    "step": 220,
+    "image_path": "demo_data/images/step_0220.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7019006314701141,
+      -1.260801036944758,
+      0.0,
+      -2.356,
+      0.0,
+      1.7579248181080267,
+      0.785
+    ],
+    "coverage": 35.0
+  },
+  {
+    "step": 221,
+    "image_path": "demo_data/images/step_0221.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6624171023154395,
+      -1.2637790037246357,
+      0.0,
+      -2.356,
+      0.0,
+      1.7749423293911075,
+      0.785
+    ],
+    "coverage": 35.0
+  },
+  {
+    "step": 222,
+    "image_path": "demo_data/images/step_0222.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6218738471051702,
+      -1.2665654652866585,
+      0.0,
+      -2.356,
+      0.0,
+      1.7917763063434307,
+      0.785
+    ],
+    "coverage": 35.75
+  },
+  {
+    "step": 223,
+    "image_path": "demo_data/images/step_0223.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.58033572639888,
+      -1.2691593070833536,
+      0.0,
+      -2.356,
+      0.0,
+      1.8084115995219978,
+      0.785
+    ],
+    "coverage": 35.75
+  },
+  {
+    "step": 224,
+    "image_path": "demo_data/images/step_0224.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5378691923287019,
+      -1.271559491612587,
+      0.0,
+      -2.356,
+      0.0,
+      1.8248332382857981,
+      0.785
+    ],
+    "coverage": 35.75
+  },
+  {
+    "step": 225,
+    "image_path": "demo_data/images/step_0225.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4945421822901079,
+      -1.2737650588325486,
+      0.0,
+      -2.356,
+      0.0,
+      1.8410264442683706,
+      0.785
+    ],
+    "coverage": 36.5
+  },
+  {
+    "step": 226,
+    "image_path": "demo_data/images/step_0226.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4504240102565533,
+      -1.2757751265457578,
+      0.0,
+      -2.356,
+      0.0,
+      1.8569766446773392,
+      0.785
+    ],
+    "coverage": 36.5
+  },
+  {
+    "step": 227,
+    "image_path": "demo_data/images/step_0227.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4055852558919211,
+      -1.2775888907519297,
+      0.0,
+      -2.356,
+      0.0,
+      1.8726694854089432,
+      0.785
+    ],
+    "coverage": 36.5
+  },
+  {
+    "step": 228,
+    "image_path": "demo_data/images/step_0228.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.36009765163809987,
+      -1.2792056259695652,
+      0.0,
+      -2.356,
+      0.0,
+      1.8880908439657584,
+      0.785
+    ],
+    "coverage": 36.5
+  },
+  {
+    "step": 229,
+    "image_path": "demo_data/images/step_0229.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3140339679583951,
+      -1.2806246855261336,
+      0.0,
+      -2.356,
+      0.0,
+      1.9032268421659944,
+      0.785
+    ],
+    "coverage": 37.25
+  },
+  {
+    "step": 230,
+    "image_path": "demo_data/images/step_0230.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2674678969202951,
+      -1.2818455018167323,
+      0.0,
+      -2.356,
+      0.0,
+      1.9180638586329195,
+      0.785
+    ],
+    "coverage": 37.25
+  },
+  {
+    "step": 231,
+    "image_path": "demo_data/images/step_0231.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.22047393430389958,
+      -1.2828675865311228,
+      0.0,
+      -2.356,
+      0.0,
+      1.9325885410531833,
+      0.785
+    ],
+    "coverage": 37.25
+  },
+  {
+    "step": 232,
+    "image_path": "demo_data/images/step_0232.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1731272604245487,
+      -1.2836905308490467,
+      0.0,
+      -2.356,
+      0.0,
+      1.9467878181929934,
+      0.785
+    ],
+    "coverage": 37.25
+  },
+  {
+    "step": 233,
+    "image_path": "demo_data/images/step_0233.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1255036198603623,
+      -1.2843140056037494,
+      0.0,
+      -2.356,
+      0.0,
+      1.9606489116613464,
+      0.785
+    ],
+    "coverage": 37.25
+  },
+  {
+    "step": 234,
+    "image_path": "demo_data/images/step_0234.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.07767920027707907,
+      -1.2847377614136422,
+      0.0,
+      -2.356,
+      0.0,
+      1.9741593474097168,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 235,
+    "image_path": "demo_data/images/step_0235.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.029730510544029316,
+      -1.2849616287820504,
+      0.0,
+      -2.356,
+      0.0,
+      1.987306966957858,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 236,
+    "image_path": "demo_data/images/step_0236.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.01826574166371809,
+      -1.2849855181650123,
+      0.0,
+      -2.356,
+      0.0,
+      2.0000799383356145,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 237,
+    "image_path": "demo_data/images/step_0237.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.06623277258128941,
+      -1.2848094200070928,
+      0.0,
+      -2.356,
+      0.0,
+      2.0124667667308955,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 238,
+    "image_path": "demo_data/images/step_0238.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.11409384519163314,
+      -1.284433404745207,
+      0.0,
+      -2.356,
+      0.0,
+      2.0244563048342323,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 239,
+    "image_path": "demo_data/images/step_0239.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.16177239198839458,
+      -1.2838576227804466,
+      0.0,
+      -2.356,
+      0.0,
+      2.0360377628706,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 240,
+    "image_path": "demo_data/images/step_0240.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.20919213746757556,
+      -1.2830823044179205,
+      0.0,
+      -2.356,
+      0.0,
+      2.0472007183094916,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 241,
+    "image_path": "demo_data/images/step_0241.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.2562772201520864,
+      -1.2821077597746358,
+      0.0,
+      -2.356,
+      0.0,
+      2.057935125244489,
+      0.785
+    ],
+    "coverage": 38.0
+  },
+  {
+    "step": 242,
+    "image_path": "demo_data/images/step_0242.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.3029523139539097,
+      -1.2809343786554563,
+      0.0,
+      -2.356,
+      0.0,
+      2.068231323433901,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 243,
+    "image_path": "demo_data/images/step_0243.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.34914274867978895,
+      -1.279562630397185,
+      0.0,
+      -2.356,
+      0.0,
+      2.07808004699433,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 244,
+    "image_path": "demo_data/images/step_0244.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.39477462948759257,
+      -1.2779930636808352,
+      0.0,
+      -2.356,
+      0.0,
+      2.087472432739341,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 245,
+    "image_path": "demo_data/images/step_0245.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.43977495510231407,
+      -1.2762263063121662,
+      0.0,
+      -2.356,
+      0.0,
+      2.0964000281557293,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 246,
+    "image_path": "demo_data/images/step_0246.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4840717346025235,
+      -1.2742630649705693,
+      0.0,
+      -2.356,
+      0.0,
+      2.1048547990102158,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 247,
+    "image_path": "demo_data/images/step_0247.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5275941025905,
+      -1.2721041249264045,
+      0.0,
+      -2.356,
+      0.0,
+      2.1128291365797107,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 248,
+    "image_path": "demo_data/images/step_0248.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5702724325617358,
+      -1.2697503497269045,
+      0.0,
+      -2.356,
+      0.0,
+      2.1203158644986537,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 249,
+    "image_path": "demo_data/images/step_0249.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6120384482925052,
+      -1.2672026808507653,
+      0.0,
+      -2.356,
+      0.0,
+      2.127308245217256,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 250,
+    "image_path": "demo_data/images/step_0250.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6528253330672437,
+      -1.2644621373315692,
+      0.0,
+      -2.356,
+      0.0,
+      2.1337999860648433,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 251,
+    "image_path": "demo_data/images/step_0251.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6925678365710534,
+      -1.2615298153501837,
+      0.0,
+      -2.356,
+      0.0,
+      2.139785244912831,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 252,
+    "image_path": "demo_data/images/step_0252.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.731202379276273,
+      -1.2584068877963044,
+      0.0,
+      -2.356,
+      0.0,
+      2.14525863543225,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 253,
+    "image_path": "demo_data/images/step_0253.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.768667154156174,
+      -1.2550946037993143,
+      0.0,
+      -2.356,
+      0.0,
+      2.150215231941075,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 254,
+    "image_path": "demo_data/images/step_0254.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8049022255630042,
+      -1.2515942882286488,
+      0.0,
+      -2.356,
+      0.0,
+      2.1546505738370083,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 255,
+    "image_path": "demo_data/images/step_0255.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8398496251122524,
+      -1.2479073411638661,
+      0.0,
+      -2.356,
+      0.0,
+      2.15856066961172,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 256,
+    "image_path": "demo_data/images/step_0256.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8734534444196839,
+      -1.2440352373346335,
+      0.0,
+      -2.356,
+      0.0,
+      2.161942000442936,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 257,
+    "image_path": "demo_data/images/step_0257.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9056599245428412,
+      -1.2399795255308552,
+      0.0,
+      -2.356,
+      0.0,
+      2.1647915233611426,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 258,
+    "image_path": "demo_data/images/step_0258.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9364175419838778,
+      -1.2357418279831776,
+      0.0,
+      -2.356,
+      0.0,
+      2.1671066739880493,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 259,
+    "image_path": "demo_data/images/step_0259.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9656770911161605,
+      -1.2313238397141173,
+      0.0,
+      -2.356,
+      0.0,
+      2.1688853688443603,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 260,
+    "image_path": "demo_data/images/step_0260.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9933917629027844,
+      -1.2267273278600765,
+      0.0,
+      -2.356,
+      0.0,
+      2.170126007224763,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 261,
+    "image_path": "demo_data/images/step_0261.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0195172197810365,
+      -1.2219541309645112,
+      0.0,
+      -2.356,
+      0.0,
+      2.1708274726384555,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 262,
+    "image_path": "demo_data/images/step_0262.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0440116665930472,
+      -1.2170061582425373,
+      0.0,
+      -2.356,
+      0.0,
+      2.1709891338139133,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 263,
+    "image_path": "demo_data/images/step_0263.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.066835917449119,
+      -1.2118853888172718,
+      0.0,
+      -2.356,
+      0.0,
+      2.17061084526699,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 264,
+    "image_path": "demo_data/images/step_0264.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0879534584167974,
+      -1.2065938709282085,
+      0.0,
+      -2.356,
+      0.0,
+      2.1696929474318445,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 265,
+    "image_path": "demo_data/images/step_0265.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1073305059353677,
+      -1.2011337211119506,
+      0.0,
+      -2.356,
+      0.0,
+      2.168236266354572,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 266,
+    "image_path": "demo_data/images/step_0266.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.124936060862352,
+      -1.1955071233556236,
+      0.0,
+      -2.356,
+      0.0,
+      2.166242112949819,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 267,
+    "image_path": "demo_data/images/step_0267.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.140741958065516,
+      -1.1897163282233096,
+      0.0,
+      -2.356,
+      0.0,
+      2.163712281821048,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 268,
+    "image_path": "demo_data/images/step_0268.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1547229114810817,
+      -1.183763651955852,
+      0.0,
+      -2.356,
+      0.0,
+      2.1606490496455173,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 269,
+    "image_path": "demo_data/images/step_0269.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.166856554566027,
+      -1.1776514755443903,
+      0.0,
+      -2.356,
+      0.0,
+      2.157055173125422,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 270,
+    "image_path": "demo_data/images/step_0270.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1771234760797897,
+      -1.1713822437779937,
+      0.0,
+      -2.356,
+      0.0,
+      2.1529338865070518,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 271,
+    "image_path": "demo_data/images/step_0271.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1855072511381066,
+      -1.1649584642657804,
+      0.0,
+      -2.356,
+      0.0,
+      2.148288898670184,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 272,
+    "image_path": "demo_data/images/step_0272.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1919944674893284,
+      -1.158382706433906,
+      0.0,
+      -2.356,
+      0.0,
+      2.1431243897903443,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 273,
+    "image_path": "demo_data/images/step_0273.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.196574746971158,
+      -1.1516576004978283,
+      0.0,
+      -2.356,
+      0.0,
+      2.1374450075769316,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 274,
+    "image_path": "demo_data/images/step_0274.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1992407621134995,
+      -1.1447858364102537,
+      0.0,
+      -2.356,
+      0.0,
+      2.131255863090591,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 275,
+    "image_path": "demo_data/images/step_0275.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1999882478608441,
+      -1.137770162785196,
+      0.0,
+      -2.356,
+      0.0,
+      2.1245625261436043,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 276,
+    "image_path": "demo_data/images/step_0276.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1988160083954515,
+      -1.1306133857985632,
+      0.0,
+      -2.356,
+      0.0,
+      2.1173710202874383,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 277,
+    "image_path": "demo_data/images/step_0277.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.195725919050402,
+      -1.1233183680657284,
+      0.0,
+      -2.356,
+      0.0,
+      2.1096878173919507,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 278,
+    "image_path": "demo_data/images/step_0278.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1907229233094632,
+      -1.1158880274965184,
+      0.0,
+      -2.356,
+      0.0,
+      2.1015198318211477,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 279,
+    "image_path": "demo_data/images/step_0279.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1838150248985726,
+      -1.1083253361280918,
+      0.0,
+      -2.356,
+      0.0,
+      2.09287441421072,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 280,
+    "image_path": "demo_data/images/step_0280.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1750132749815803,
+      -1.1006333189361603,
+      0.0,
+      -2.356,
+      0.0,
+      2.083759344852968,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 281,
+    "image_path": "demo_data/images/step_0281.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.164331754480748,
+      -1.0928150526250433,
+      0.0,
+      -2.356,
+      0.0,
+      2.074182826695067,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 282,
+    "image_path": "demo_data/images/step_0282.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1517875515502738,
+      -1.0848736643970218,
+      0.0,
+      -2.356,
+      0.0,
+      2.0641534779569617,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 283,
+    "image_path": "demo_data/images/step_0283.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1374007342388917,
+      -1.0768123307015036,
+      0.0,
+      -2.356,
+      0.0,
+      2.053680324375556,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 284,
+    "image_path": "demo_data/images/step_0284.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1211943183852775,
+      -1.0686342759644845,
+      0.0,
+      -2.356,
+      0.0,
+      2.0427727910821574,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 285,
+    "image_path": "demo_data/images/step_0285.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1031942307976108,
+      -1.060342771298819,
+      0.0,
+      -2.356,
+      0.0,
+      2.031440694120493,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 286,
+    "image_path": "demo_data/images/step_0286.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0834292677762198,
+      -1.0519411331958222,
+      0.0,
+      -2.356,
+      0.0,
+      2.0196942316129336,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 287,
+    "image_path": "demo_data/images/step_0287.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0619310490456366,
+      -1.0434327221987143,
+      0.0,
+      -2.356,
+      0.0,
+      2.007543974582876,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 288,
+    "image_path": "demo_data/images/step_0288.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0387339671697895,
+      -1.0348209415584513,
+      0.0,
+      -2.356,
+      0.0,
+      1.9950008574415268,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 289,
+    "image_path": "demo_data/images/step_0289.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0138751325312312,
+      -1.0261092358724657,
+      0.0,
+      -2.356,
+      0.0,
+      1.9820761681476804,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 290,
+    "image_path": "demo_data/images/step_0290.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9873943139624506,
+      -1.0173010897068786,
+      0.0,
+      -2.356,
+      0.0,
+      1.9687815380493099,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 291,
+    "image_path": "demo_data/images/step_0291.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.959333875124215,
+      -1.008400026202715,
+      0.0,
+      -2.356,
+      0.0,
+      1.9551289314161426,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 292,
+    "image_path": "demo_data/images/step_0292.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9297387067327605,
+      -0.999409605666698,
+      0.0,
+      -2.356,
+      0.0,
+      1.9411306346726267,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 293,
+    "image_path": "demo_data/images/step_0293.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8986561547442116,
+      -0.9903334241471704,
+      0.0,
+      -2.356,
+      0.0,
+      1.926799245340974,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 294,
+    "image_path": "demo_data/images/step_0294.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8661359446111621,
+      -0.9811751119957269,
+      0.0,
+      -2.356,
+      0.0,
+      1.9121476607042416,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 295,
+    "image_path": "demo_data/images/step_0295.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8322301017325469,
+      -0.9719383324151181,
+      0.0,
+      -2.356,
+      0.0,
+      1.8971890661996529,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 296,
+    "image_path": "demo_data/images/step_0296.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7969928682241142,
+      -0.9626267799940214,
+      0.0,
+      -2.356,
+      0.0,
+      1.881936923552586,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 297,
+    "image_path": "demo_data/images/step_0297.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7604806161425987,
+      -0.9532441792292521,
+      0.0,
+      -2.356,
+      0.0,
+      1.8664049586619336,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 298,
+    "image_path": "demo_data/images/step_0298.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7227517573024692,
+      -0.9437942830360174,
+      0.0,
+      -2.356,
+      0.0,
+      1.8506071492477227,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 299,
+    "image_path": "demo_data/images/step_0299.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6838666498294727,
+      -0.9342808712467968,
+      0.0,
+      -2.356,
+      0.0,
+      1.8345577122721053,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 300,
+    "image_path": "demo_data/images/step_0300.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6438875016005219,
+      -0.924707749099463,
+      0.0,
+      -2.356,
+      0.0,
+      1.818271091145054,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 301,
+    "image_path": "demo_data/images/step_0301.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6028782707243497,
+      -0.9150787457152341,
+      0.0,
+      -2.356,
+      0.0,
+      1.8017619427262708,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 302,
+    "image_path": "demo_data/images/step_0302.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5609045632221924,
+      -0.9053977125670796,
+      0.0,
+      -2.356,
+      0.0,
+      1.7850451241349972,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 303,
+    "image_path": "demo_data/images/step_0303.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5180335280721361,
+      -0.8956685219391793,
+      0.0,
+      -2.356,
+      0.0,
+      1.7681356793796152,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 304,
+    "image_path": "demo_data/images/step_0304.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4743337497850917,
+      -0.8858950653780645,
+      0.0,
+      -2.356,
+      0.0,
+      1.7510488258190509,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 305,
+    "image_path": "demo_data/images/step_0305.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4298751386841924,
+      -0.8760812521360475,
+      0.0,
+      -2.356,
+      0.0,
+      1.7337999404681796,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 306,
+    "image_path": "demo_data/images/step_0306.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.38472881906320583,
+      -0.8662310076075771,
+      0.0,
+      -2.356,
+      0.0,
+      1.7164045461595543,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 307,
+    "image_path": "demo_data/images/step_0307.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.3389670154028203,
+      -0.8563482717591289,
+      0.0,
+      -2.356,
+      0.0,
+      1.6988782975738976,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 308,
+    "image_path": "demo_data/images/step_0308.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.2926629368268989,
+      -0.8464369975532751,
+      0.0,
+      -2.356,
+      0.0,
+      1.6812369671519498,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 309,
+    "image_path": "demo_data/images/step_0309.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.2458906599834847,
+      -0.8365011493675489,
+      0.0,
+      -2.356,
+      0.0,
+      1.6634964309003382,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 310,
+    "image_path": "demo_data/images/step_0310.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.19872501053797129,
+      -0.8265447014087483,
+      0.0,
+      -2.356,
+      0.0,
+      1.6456726541042381,
+      0.785
+    ],
+    "coverage": 38.25
+  },
+  {
+    "step": 311,
+    "image_path": "demo_data/images/step_0311.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.15124144346800714,
+      -0.8165716361233064,
+      0.0,
+      -2.356,
+      0.0,
+      1.627781676959696,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 312,
+    "image_path": "demo_data/images/step_0312.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.10351592235161262,
+      -0.8065859426043643,
+      0.0,
+      -2.356,
+      0.0,
+      1.6098396001385396,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 313,
+    "image_path": "demo_data/images/step_0313.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.05562479784167666,
+      -0.7965916149961898,
+      0.0,
+      -2.356,
+      0.0,
+      1.5918625702988527,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 314,
+    "image_path": "demo_data/images/step_0314.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.0076446855211825615,
+      -0.786592650896569,
+      0.0,
+      -2.356,
+      0.0,
+      1.573866765554077,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 315,
+    "image_path": "demo_data/images/step_0315.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.04034765666536403,
+      -0.7765930497578252,
+      0.0,
+      -2.356,
+      0.0,
+      1.5558683809138047,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 316,
+    "image_path": "demo_data/images/step_0316.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.0882754512082892,
+      -0.7665968112870866,
+      0.0,
+      -2.356,
+      0.0,
+      1.5378836137093552,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 317,
+    "image_path": "demo_data/images/step_0317.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.13606202386037092,
+      -0.756607933846461,
+      0.0,
+      -2.356,
+      0.0,
+      1.5199286490172794,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 318,
+    "image_path": "demo_data/images/step_0318.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1836309262992952,
+      -0.7466304128537405,
+      0.0,
+      -2.356,
+      0.0,
+      1.5020196450938752,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 319,
+    "image_path": "demo_data/images/step_0319.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.23090605842864684,
+      -0.7366682391842914,
+      0.0,
+      -2.356,
+      0.0,
+      1.4841727188338512,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 320,
+    "image_path": "demo_data/images/step_0320.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2778117901218467,
+      -0.7267253975747532,
+      0.0,
+      -2.356,
+      0.0,
+      1.4664039312662123,
+      0.785
+    ],
+    "coverage": 39.0
+  },
+  {
+    "step": 321,
+    "image_path": "demo_data/images/step_0321.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.32427308221420403,
+      -0.7168058650292012,
+      0.0,
+      -2.356,
+      0.0,
+      1.4487292731004107,
+      0.785
+    ],
+    "coverage": 39.5
+  },
+  {
+    "step": 322,
+    "image_path": "demo_data/images/step_0322.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.37021560654958885,
+      -0.7069136092283941,
+      0.0,
+      -2.356,
+      0.0,
+      1.4311646503357913,
+      0.785
+    ],
+    "coverage": 39.5
+  },
+  {
+    "step": 323,
+    "image_path": "demo_data/images/step_0323.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.41556586488960956,
+      -0.6970525869427581,
+      0.0,
+      -2.356,
+      0.0,
+      1.413725869947268,
+      0.785
+    ],
+    "coverage": 39.5
+  },
+  {
+    "step": 324,
+    "image_path": "demo_data/images/step_0324.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4602513064951319,
+      -0.6872267424497279,
+      0.0,
+      -2.356,
+      0.0,
+      1.3964286256601064,
+      0.785
+    ],
+    "coverage": 39.5
+  },
+  {
+    "step": 325,
+    "image_path": "demo_data/images/step_0325.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5042004441919691,
+      -0.6774400059560923,
+      0.0,
+      -2.356,
+      0.0,
+      1.3792884838266357,
+      0.785
+    ],
+    "coverage": 39.5
+  },
+  {
+    "step": 326,
+    "image_path": "demo_data/images/step_0326.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5473429687351259,
+      -0.6676962920259596,
+      0.0,
+      -2.356,
+      0.0,
+      1.362320869417583,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 327,
+    "image_path": "demo_data/images/step_0327.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5896098612885773,
+      -0.6579994980149885,
+      0.0,
+      -2.356,
+      0.0,
+      1.3455410521406346,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 328,
+    "image_path": "demo_data/images/step_0328.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6309335038406976,
+      -0.6483535025114934,
+      0.0,
+      -2.356,
+      0.0,
+      1.3289641326987383,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 329,
+    "image_path": "demo_data/images/step_0329.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6712477873786401,
+      -0.6387621637850651,
+      0.0,
+      -2.356,
+      0.0,
+      1.312605029200482,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 330,
+    "image_path": "demo_data/images/step_0330.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7104882176486693,
+      -0.6292293182433106,
+      0.0,
+      -2.356,
+      0.0,
+      1.2964784637348072,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 331,
+    "image_path": "demo_data/images/step_0331.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7485920183331952,
+      -0.6197587788973445,
+      0.0,
+      -2.356,
+      0.0,
+      1.2805989491221241,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 332,
+    "image_path": "demo_data/images/step_0332.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.785498231479503,
+      -0.6103543338366322,
+      0.0,
+      -2.356,
+      0.0,
+      1.2649807758537484,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 333,
+    "image_path": "demo_data/images/step_0333.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8211478150194613,
+      -0.6010197447138077,
+      0.0,
+      -2.356,
+      0.0,
+      1.249637999231425,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 334,
+    "image_path": "demo_data/images/step_0334.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8554837372242464,
+      -0.5917587452400603,
+      0.0,
+      -2.356,
+      0.0,
+      1.2345844267185104,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 335,
+    "image_path": "demo_data/images/step_0335.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8884510679429384,
+      -0.5825750396917009,
+      0.0,
+      -2.356,
+      0.0,
+      1.219833605514179,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 336,
+    "image_path": "demo_data/images/step_0336.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9199970664790394,
+      -0.5734723014285016,
+      0.0,
+      -2.356,
+      0.0,
+      1.2053988103618636,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 337,
+    "image_path": "demo_data/images/step_0337.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9500712659643493,
+      -0.5644541714243989,
+      0.0,
+      -2.356,
+      0.0,
+      1.1912930316028831,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 338,
+    "image_path": "demo_data/images/step_0338.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9786255540951755,
+      -0.5555242568111549,
+      0.0,
+      -2.356,
+      0.0,
+      1.1775289634860087,
+      0.785
+    ],
+    "coverage": 40.0
+  },
+  {
+    "step": 339,
+    "image_path": "demo_data/images/step_0339.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0056142501017677,
+      -0.5466861294355503,
+      0.0,
+      -2.356,
+      0.0,
+      1.1641189927434978,
+      0.785
+    ],
+    "coverage": 40.25
+  },
+  {
+    "step": 340,
+    "image_path": "demo_data/images/step_0340.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.030994177827795,
+      -0.5379433244306959,
+      0.0,
+      -2.356,
+      0.0,
+      1.1510751874438745,
+      0.785
+    ],
+    "coverage": 40.25
+  },
+  {
+    "step": 341,
+    "image_path": "demo_data/images/step_0341.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0547247348029933,
+      -0.5292993388020238,
+      0.0,
+      -2.356,
+      0.0,
+      1.1384092861314765,
+      0.785
+    ],
+    "coverage": 40.25
+  },
+  {
+    "step": 342,
+    "image_path": "demo_data/images/step_0342.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.076767957198449,
+      -0.5207576300285346,
+      0.0,
+      -2.356,
+      0.0,
+      1.1261326872625637,
+      0.785
+    ],
+    "coverage": 41.0
+  },
+  {
+    "step": 343,
+    "image_path": "demo_data/images/step_0343.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0970885805606347,
+      -0.512321614679849,
+      0.0,
+      -2.356,
+      0.0,
+      1.1142564389474718,
+      0.785
+    ],
+    "coverage": 41.0
+  },
+  {
+    "step": 344,
+    "image_path": "demo_data/images/step_0344.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1156540962270045,
+      -0.5039946670496285,
+      0.0,
+      -2.356,
+      0.0,
+      1.102791229008061,
+      0.785
+    ],
+    "coverage": 41.0
+  },
+  {
+    "step": 345,
+    "image_path": "demo_data/images/step_0345.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1324348033329257,
+      -0.4957801178059,
+      0.0,
+      -2.356,
+      0.0,
+      1.0917473753593998,
+      0.785
+    ],
+    "coverage": 41.75
+  },
+  {
+    "step": 346,
+    "image_path": "demo_data/images/step_0346.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1474038563267208,
+      -0.4876812526588357,
+      0.0,
+      -2.356,
+      0.0,
+      1.081134816724333,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 347,
+    "image_path": "demo_data/images/step_0347.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1605373079168284,
+      -0.4797013110465105,
+      0.0,
+      -2.356,
+      0.0,
+      1.0709631036893064,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 348,
+    "image_path": "demo_data/images/step_0348.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.171814147382357,
+      -0.4718434848391721,
+      0.0,
+      -2.356,
+      0.0,
+      1.0612413901094817,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 349,
+    "image_path": "demo_data/images/step_0349.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1812163341857602,
+      -0.46411091706253316,
+      0.0,
+      -2.356,
+      0.0,
+      1.0519784248708848,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 350,
+    "image_path": "demo_data/images/step_0350.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1887288268338443,
+      -0.4565067006406055,
+      0.0,
+      -2.356,
+      0.0,
+      1.043182544016998,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 351,
+    "image_path": "demo_data/images/step_0351.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.194339606940953,
+      -0.44903387715856896,
+      0.0,
+      -2.356,
+      0.0,
+      1.034861663246887,
+      0.785
+    ],
+    "coverage": 42.5
+  },
+  {
+    "step": 352,
+    "image_path": "demo_data/images/step_0352.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.198039698455817,
+      -0.4416954356461808,
+      0.0,
+      -2.356,
+      0.0,
+      1.0270232707916016,
+      0.785
+    ],
+    "coverage": 43.25
+  },
+  {
+    "step": 353,
+    "image_path": "demo_data/images/step_0353.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1998231820213234,
+      -0.4344943113822007,
+      0.0,
+      -2.356,
+      0.0,
+      1.0196744206752757,
+      0.785
+    ],
+    "coverage": 43.25
+  },
+  {
+    "step": 354,
+    "image_path": "demo_data/images/step_0354.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1996872044442235,
+      -0.4274333847203211,
+      0.0,
+      -2.356,
+      0.0,
+      1.0128217263669823,
+      0.785
+    ],
+    "coverage": 43.25
+  },
+  {
+    "step": 355,
+    "image_path": "demo_data/images/step_0355.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1976319832596338,
+      -0.4205154799370618,
+      0.0,
+      -2.356,
+      0.0,
+      1.0064713548290554,
+      0.785
+    ],
+    "coverage": 43.25
+  },
+  {
+    "step": 356,
+    "image_path": "demo_data/images/step_0356.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.193660806383026,
+      -0.4137433641020991,
+      0.0,
+      -2.356,
+      0.0,
+      1.000629020967242,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 357,
+    "image_path": "demo_data/images/step_0357.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.187780026850263,
+      -0.4071197459714729,
+      0.0,
+      -2.356,
+      0.0,
+      0.9952999824876719,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 358,
+    "image_path": "demo_data/images/step_0358.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1799990526540982,
+      -0.4006472749041221,
+      0.0,
+      -2.356,
+      0.0,
+      0.9904890351652773,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 359,
+    "image_path": "demo_data/images/step_0359.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1703303316933928,
+      -0.394328539802175,
+      0.0,
+      -2.356,
+      0.0,
+      0.9862005085279196,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 360,
+    "image_path": "demo_data/images/step_0360.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.158789331859133,
+      -0.3881660680754235,
+      0.0,
+      -2.356,
+      0.0,
+      0.9824382619601052,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 361,
+    "image_path": "demo_data/images/step_0361.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1453945162891057,
+      -0.3821623246303934,
+      0.0,
+      -2.356,
+      0.0,
+      0.9792056812298011,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 362,
+    "image_path": "demo_data/images/step_0362.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1301673138308137,
+      -0.37631971088441357,
+      0.0,
+      -2.356,
+      0.0,
+      0.9765056754414723,
+      0.785
+    ],
+    "coverage": 44.0
+  },
+  {
+    "step": 363,
+    "image_path": "demo_data/images/step_0363.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1131320847598951,
+      -0.37064056380508237,
+      0.0,
+      -2.356,
+      0.0,
+      0.9743406744180829,
+      0.785
+    ],
+    "coverage": 44.5
+  },
+  {
+    "step": 364,
+    "image_path": "demo_data/images/step_0364.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0943160818088733,
+      -0.36512715497551007,
+      0.0,
+      -2.356,
+      0.0,
+      0.9727126265144209,
+      0.785
+    ],
+    "coverage": 44.5
+  },
+  {
+    "step": 365,
+    "image_path": "demo_data/images/step_0365.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.073749406568605,
+      -0.35978168968571783,
+      0.0,
+      -2.356,
+      0.0,
+      0.9716229968637099,
+      0.785
+    ],
+    "coverage": 44.5
+  },
+  {
+    "step": 366,
+    "image_path": "demo_data/images/step_0366.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0514649613321496,
+      -0.3546063060505492,
+      0.0,
+      -2.356,
+      0.0,
+      0.9710727660590874,
+      0.785
+    ],
+    "coverage": 45.0
+  },
+  {
+    "step": 367,
+    "image_path": "demo_data/images/step_0367.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.027498396458126,
+      -0.34960307415445446,
+      0.0,
+      -2.356,
+      0.0,
+      0.9710624292711384,
+      0.785
+    ],
+    "coverage": 45.0
+  },
+  {
+    "step": 368,
+    "image_path": "demo_data/images/step_0368.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0018880533377355,
+      -0.34477399522348284,
+      0.0,
+      -2.356,
+      0.0,
+      0.9715919958022742,
+      0.785
+    ],
+    "coverage": 45.75
+  },
+  {
+    "step": 369,
+    "image_path": "demo_data/images/step_0369.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9746749030567251,
+      -0.3401210008248202,
+      0.0,
+      -2.356,
+      0.0,
+      0.9726609890783614,
+      0.785
+    ],
+    "coverage": 46.5
+  },
+  {
+    "step": 370,
+    "image_path": "demo_data/images/step_0370.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9459024808503795,
+      -0.3356459520941866,
+      0.0,
+      -2.356,
+      0.0,
+      0.9742684470776065,
+      0.785
+    ],
+    "coverage": 46.5
+  },
+  {
+    "step": 371,
+    "image_path": "demo_data/images/step_0371.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9156168164564418,
+      -0.33135063899140804,
+      0.0,
+      -2.356,
+      0.0,
+      0.9764129231963102,
+      0.785
+    ],
+    "coverage": 46.5
+  },
+  {
+    "step": 372,
+    "image_path": "demo_data/images/step_0372.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8838663604773425,
+      -0.32723677958445524,
+      0.0,
+      -2.356,
+      0.0,
+      0.9790924875507137,
+      0.785
+    ],
+    "coverage": 47.0
+  },
+  {
+    "step": 373,
+    "image_path": "demo_data/images/step_0373.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8507019068695817,
+      -0.32330601936224057,
+      0.0,
+      -2.356,
+      0.0,
+      0.9823047287137628,
+      0.785
+    ],
+    "coverage": 47.0
+  },
+  {
+    "step": 374,
+    "image_path": "demo_data/images/step_0374.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8161765116842226,
+      -0.3195599305764432,
+      0.0,
+      -2.356,
+      0.0,
+      0.9860467558852309,
+      0.785
+    ],
+    "coverage": 47.5
+  },
+  {
+    "step": 375,
+    "image_path": "demo_data/images/step_0375.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7803454081885401,
+      -0.3160000116126306,
+      0.0,
+      -2.356,
+      0.0,
+      0.9903152014932431,
+      0.785
+    ],
+    "coverage": 47.5
+  },
+  {
+    "step": 376,
+    "image_path": "demo_data/images/step_0376.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7432659185045632,
+      -0.312627686390923,
+      0.0,
+      -2.356,
+      0.0,
+      0.9951062242248631,
+      0.785
+    ],
+    "coverage": 47.5
+  },
+  {
+    "step": 377,
+    "image_path": "demo_data/images/step_0377.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7049973619059201,
+      -0.30944430379644555,
+      0.0,
+      -2.356,
+      0.0,
+      1.000415512483017,
+      0.785
+    ],
+    "coverage": 48.0
+  },
+  {
+    "step": 378,
+    "image_path": "demo_data/images/step_0378.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.665600959919642,
+      -0.3064511371397914,
+      0.0,
+      -2.356,
+      0.0,
+      1.0062382882666387,
+      0.785
+    ],
+    "coverage": 48.0
+  },
+  {
+    "step": 379,
+    "image_path": "demo_data/images/step_0379.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6251397383847928,
+      -0.303649383647715,
+      0.0,
+      -2.356,
+      0.0,
+      1.0125693114705485,
+      0.785
+    ],
+    "coverage": 48.5
+  },
+  {
+    "step": 380,
+    "image_path": "demo_data/images/step_0380.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5836784266245577,
+      -0.30104016398425676,
+      0.0,
+      -2.356,
+      0.0,
+      1.0194028846011944,
+      0.785
+    ],
+    "coverage": 48.5
+  },
+  {
+    "step": 381,
+    "image_path": "demo_data/images/step_0381.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5412833538931489,
+      -0.29862452180249316,
+      0.0,
+      -2.356,
+      0.0,
+      1.0267328579040107,
+      0.785
+    ],
+    "coverage": 49.0
+  },
+  {
+    "step": 382,
+    "image_path": "demo_data/images/step_0382.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.49802234326313277,
+      -0.2964034233270885,
+      0.0,
+      -2.356,
+      0.0,
+      1.0345526348977834,
+      0.785
+    ],
+    "coverage": 49.0
+  },
+  {
+    "step": 383,
+    "image_path": "demo_data/images/step_0383.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.45396460312299797,
+      -0.294377756967819,
+      0.0,
+      -2.356,
+      0.0,
+      1.0428551783110374,
+      0.785
+    ],
+    "coverage": 49.0
+  },
+  {
+    "step": 384,
+    "image_path": "demo_data/images/step_0384.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.4091806164584834,
+      -0.2925483329642196,
+      0.0,
+      -2.356,
+      0.0,
+      1.051633016415105,
+      0.785
+    ],
+    "coverage": 49.5
+  },
+  {
+    "step": 385,
+    "image_path": "demo_data/images/step_0385.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3637420280948427,
+      -0.29091588306149985,
+      0.0,
+      -2.356,
+      0.0,
+      1.0608782497481797,
+      0.785
+    ],
+    "coverage": 49.5
+  },
+  {
+    "step": 386,
+    "image_path": "demo_data/images/step_0386.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.31772153008041315,
+      -0.28948106021785514,
+      0.0,
+      -2.356,
+      0.0,
+      1.070582558224296,
+      0.785
+    ],
+    "coverage": 49.5
+  },
+  {
+    "step": 387,
+    "image_path": "demo_data/images/step_0387.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.27119274539483107,
+      -0.2882444383432921,
+      0.0,
+      -2.356,
+      0.0,
+      1.0807372086208462,
+      0.785
+    ],
+    "coverage": 49.75
+  },
+  {
+    "step": 388,
+    "image_path": "demo_data/images/step_0388.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.22423011016798625,
+      -0.28720651207007264,
+      0.0,
+      -2.356,
+      0.0,
+      1.0913330624378919,
+      0.785
+    ],
+    "coverage": 49.75
+  },
+  {
+    "step": 389,
+    "image_path": "demo_data/images/step_0389.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1769087545980762,
+      -0.2863676965548671,
+      0.0,
+      -2.356,
+      0.0,
+      1.102360584122197,
+      0.785
+    ],
+    "coverage": 49.75
+  },
+  {
+    "step": 390,
+    "image_path": "demo_data/images/step_0390.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.12930438275933287,
+      -0.28572832731269754,
+      0.0,
+      -2.356,
+      0.0,
+      1.11380984964858,
+      0.785
+    ],
+    "coverage": 49.75
+  },
+  {
+    "step": 391,
+    "image_path": "demo_data/images/step_0391.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.08149315149163634,
+      -0.28528866008273607,
+      0.0,
+      -2.356,
+      0.0,
+      1.1256705554508706,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 392,
+    "image_path": "demo_data/images/step_0392.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.033551548565833776,
+      -0.2850488707260124,
+      0.0,
+      -2.356,
+      0.0,
+      1.137932027694419,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 393,
+    "image_path": "demo_data/images/step_0393.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.01444372968039429,
+      -0.28500905515507224,
+      0.0,
+      -2.356,
+      0.0,
+      1.1505832318818312,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 394,
+    "image_path": "demo_data/images/step_0394.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.06241590104029626,
+      -0.28516922929561295,
+      0.0,
+      -2.356,
+      0.0,
+      1.1636127827832699,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 395,
+    "image_path": "demo_data/images/step_0395.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.11028822027321795,
+      -0.285529329080114,
+      0.0,
+      -2.356,
+      0.0,
+      1.1770089546823908,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 396,
+    "image_path": "demo_data/images/step_0396.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.15798410188059928,
+      -0.28608921047346286,
+      0.0,
+      -2.356,
+      0.0,
+      1.1907596919286998,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 397,
+    "image_path": "demo_data/images/step_0397.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.20542724262645132,
+      -0.2868486495305672,
+      0.0,
+      -2.356,
+      0.0,
+      1.2048526197868228,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 398,
+    "image_path": "demo_data/images/step_0398.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.25254174360624015,
+      -0.2878073424859298,
+      0.0,
+      -2.356,
+      0.0,
+      1.2192750555729304,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 399,
+    "image_path": "demo_data/images/step_0399.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.29925223166895976,
+      -0.28896490587515106,
+      0.0,
+      -2.356,
+      0.0,
+      1.2340140200683005,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 400,
+    "image_path": "demo_data/images/step_0400.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.34548397999807834,
+      -0.29032087668830914,
+      0.0,
+      -2.356,
+      0.0,
+      1.249056249199739,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 401,
+    "image_path": "demo_data/images/step_0401.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.39116302765851835,
+      -0.2918747125551582,
+      0.0,
+      -2.356,
+      0.0,
+      1.2643882059763454,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 402,
+    "image_path": "demo_data/images/step_0402.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.43621629791837085,
+      -0.2936257919620691,
+      0.0,
+      -2.356,
+      0.0,
+      1.279996092671898,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 403,
+    "image_path": "demo_data/images/step_0403.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.48057171515606384,
+      -0.29557341450062635,
+      0.0,
+      -2.356,
+      0.0,
+      1.2958658632418723,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 404,
+    "image_path": "demo_data/images/step_0404.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5241583201660054,
+      -0.29771680114778254,
+      0.0,
+      -2.356,
+      0.0,
+      1.311983235963931,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 405,
+    "image_path": "demo_data/images/step_0405.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5669063836781594,
+      -0.3000550945774569,
+      0.0,
+      -2.356,
+      0.0,
+      1.3283337062905158,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 406,
+    "image_path": "demo_data/images/step_0406.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6087475179100106,
+      -0.3025873595034546,
+      0.0,
+      -2.356,
+      0.0,
+      1.344902559901955,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 407,
+    "image_path": "demo_data/images/step_0407.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6496147859724132,
+      -0.30531258305356795,
+      0.0,
+      -2.356,
+      0.0,
+      1.361674885948363,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 408,
+    "image_path": "demo_data/images/step_0408.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6894428089543568,
+      -0.3082296751747129,
+      0.0,
+      -2.356,
+      0.0,
+      1.3786355904683971,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 409,
+    "image_path": "demo_data/images/step_0409.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7281678705152619,
+      -0.31133746906893506,
+      0.0,
+      -2.356,
+      0.0,
+      1.3957694099728004,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 410,
+    "image_path": "demo_data/images/step_0410.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7657280188175369,
+      -0.31463472166011347,
+      0.0,
+      -2.356,
+      0.0,
+      1.4130609251805184,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 411,
+    "image_path": "demo_data/images/step_0411.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8020631656363059,
+      -0.3181201140911747,
+      0.0,
+      -2.356,
+      0.0,
+      1.430494574895007,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 412,
+    "image_path": "demo_data/images/step_0412.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8371151824877366,
+      -0.32179225225161695,
+      0.0,
+      -2.356,
+      0.0,
+      1.4480546700082577,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 413,
+    "image_path": "demo_data/images/step_0413.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8708279936222352,
+      -0.32564966733513767,
+      0.0,
+      -2.356,
+      0.0,
+      1.46572540761994,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 414,
+    "image_path": "demo_data/images/step_0414.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9031476657336689,
+      -0.3296908164271348,
+      0.0,
+      -2.356,
+      0.0,
+      1.4834908852589435,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 415,
+    "image_path": "demo_data/images/step_0415.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9340224942411581,
+      -0.3339140831218534,
+      0.0,
+      -2.356,
+      0.0,
+      1.501335115194525,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 416,
+    "image_path": "demo_data/images/step_0416.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9634030860053641,
+      -0.33831777816892405,
+      0.0,
+      -2.356,
+      0.0,
+      1.5192420388241936,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 417,
+    "image_path": "demo_data/images/step_0417.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9912424383469921,
+      -0.3429001401490437,
+      0.0,
+      -2.356,
+      0.0,
+      1.537195541125362,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 418,
+    "image_path": "demo_data/images/step_0418.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0174960142410407,
+      -0.3476593361785174,
+      0.0,
+      -2.356,
+      0.0,
+      1.555179465157785,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 419,
+    "image_path": "demo_data/images/step_0419.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0421218135665455,
+      -0.3525934626423891,
+      0.0,
+      -2.356,
+      0.0,
+      1.573177626603713,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 420,
+    "image_path": "demo_data/images/step_0420.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0650804402978054,
+      -0.3577005459558598,
+      0.0,
+      -2.356,
+      0.0,
+      1.591173828332682,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 421,
+    "image_path": "demo_data/images/step_0421.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0863351655296316,
+      -0.362978543353698,
+      0.0,
+      -2.356,
+      0.0,
+      1.6091518749778442,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 422,
+    "image_path": "demo_data/images/step_0422.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1058519862357525,
+      -0.36842534370731705,
+      0.0,
+      -2.356,
+      0.0,
+      1.6270955875107016,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 423,
+    "image_path": "demo_data/images/step_0423.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1235996796664065,
+      -0.3740387683691989,
+      0.0,
+      -2.356,
+      0.0,
+      1.644988817801137,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 424,
+    "image_path": "demo_data/images/step_0424.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1395498532980741,
+      -0.3798165720443226,
+      0.0,
+      -2.356,
+      0.0,
+      1.6628154631496466,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 425,
+    "image_path": "demo_data/images/step_0425.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1536769902554682,
+      -0.3857564436882549,
+      0.0,
+      -2.356,
+      0.0,
+      1.6805594807786803,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 426,
+    "image_path": "demo_data/images/step_0426.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1659584901330857,
+      -0.3918560074315354,
+      0.0,
+      -2.356,
+      0.0,
+      1.6982049022700554,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 427,
+    "image_path": "demo_data/images/step_0427.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1763747051510367,
+      -0.3981128235299939,
+      0.0,
+      -2.356,
+      0.0,
+      1.7157358479354607,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 428,
+    "image_path": "demo_data/images/step_0428.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1849089715872982,
+      -0.40452438934061286,
+      0.0,
+      -2.356,
+      0.0,
+      1.733136541107102,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 429,
+    "image_path": "demo_data/images/step_0429.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1915476364361195,
+      -0.41108814032255514,
+      0.0,
+      -2.356,
+      0.0,
+      1.750391322335634,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 430,
+    "image_path": "demo_data/images/step_0430.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1962800792499153,
+      -0.41780145106294336,
+      0.0,
+      -2.356,
+      0.0,
+      1.7674846634826158,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 431,
+    "image_path": "demo_data/images/step_0431.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1990987291297177,
+      -0.4246616363269916,
+      0.0,
+      -2.356,
+      0.0,
+      1.7844011816947791,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 432,
+    "image_path": "demo_data/images/step_0432.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1999990768369988,
+      -0.43166595213206105,
+      0.0,
+      -2.356,
+      0.0,
+      1.801125653247565,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 433,
+    "image_path": "demo_data/images/step_0433.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1989796820074905,
+      -0.4388115968452198,
+      0.0,
+      -2.356,
+      0.0,
+      1.8176430272454445,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 434,
+    "image_path": "demo_data/images/step_0434.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1960421754554613,
+      -0.44609571230385664,
+      0.0,
+      -2.356,
+      0.0,
+      1.833938439166707,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 435,
+    "image_path": "demo_data/images/step_0435.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1911912565647593,
+      -0.45351538495890903,
+      0.0,
+      -2.356,
+      0.0,
+      1.8499972242405318,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 436,
+    "image_path": "demo_data/images/step_0436.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1844346857708026,
+      -0.4610676470402412,
+      0.0,
+      -2.356,
+      0.0,
+      1.8658049306442885,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 437,
+    "image_path": "demo_data/images/step_0437.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1757832721455366,
+      -0.4687494777437169,
+      0.0,
+      -2.356,
+      0.0,
+      1.8813473325092005,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 438,
+    "image_path": "demo_data/images/step_0438.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1652508561052248,
+      -0.47655780443947765,
+      0.0,
+      -2.356,
+      0.0,
+      1.8966104427226707,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 439,
+    "image_path": "demo_data/images/step_0439.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1528542872687366,
+      -0.48448950390095485,
+      0.0,
+      -2.356,
+      0.0,
+      1.9115805255157368,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 440,
+    "image_path": "demo_data/images/step_0440.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1386133975017487,
+      -0.4925414035541192,
+      0.0,
+      -2.356,
+      0.0,
+      1.9262441088243338,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 441,
+    "image_path": "demo_data/images/step_0441.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1225509691899962,
+      -0.5007102827464652,
+      0.0,
+      -2.356,
+      0.0,
+      1.9405879964132469,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 442,
+    "image_path": "demo_data/images/step_0442.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.104692698792308,
+      -0.5089928740352336,
+      0.0,
+      -2.356,
+      0.0,
+      1.9545992797518301,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 443,
+    "image_path": "demo_data/images/step_0443.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0850671557317593,
+      -0.5173858644943419,
+      0.0,
+      -2.356,
+      0.0,
+      1.9682653496308105,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 444,
+    "image_path": "demo_data/images/step_0444.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.063705736690686,
+      -0.5258858970395124,
+      0.0,
+      -2.356,
+      0.0,
+      1.9815739075097305,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 445,
+    "image_path": "demo_data/images/step_0445.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0406426153826975,
+      -0.5344895717710577,
+      0.0,
+      -2.356,
+      0.0,
+      1.9945129765847986,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 446,
+    "image_path": "demo_data/images/step_0446.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.015914687882015,
+      -0.5431934473338,
+      0.0,
+      -2.356,
+      0.0,
+      2.0070709125672086,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 447,
+    "image_path": "demo_data/images/step_0447.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9895615135976296,
+      -0.5519940422935645,
+      0.0,
+      -2.356,
+      0.0,
+      2.0192364141622123,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 448,
+    "image_path": "demo_data/images/step_0448.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.961625251986683,
+      -0.5608878365297076,
+      0.0,
+      -2.356,
+      0.0,
+      2.0309985332395195,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 449,
+    "image_path": "demo_data/images/step_0449.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9321505951083398,
+      -0.5698712726431157,
+      0.0,
+      -2.356,
+      0.0,
+      2.042346684685881,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 450,
+    "image_path": "demo_data/images/step_0450.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9011846961260113,
+      -0.5789407573791218,
+      0.0,
+      -2.356,
+      0.0,
+      2.0532706559309726,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 451,
+    "image_path": "demo_data/images/step_0451.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8687770938723632,
+      -0.5880926630647563,
+      0.0,
+      -2.356,
+      0.0,
+      2.063760616138018,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 452,
+    "image_path": "demo_data/images/step_0452.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8349796335977454,
+      -0.5973233290597695,
+      0.0,
+      -2.356,
+      0.0,
+      2.0738071250508834,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 453,
+    "image_path": "demo_data/images/step_0453.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7998463840288627,
+      -0.6066290632208358,
+      0.0,
+      -2.356,
+      0.0,
+      2.083401141489666,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 454,
+    "image_path": "demo_data/images/step_0454.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7634335508703288,
+      -0.6160061433783662,
+      0.0,
+      -2.356,
+      0.0,
+      2.092534031487147,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 455,
+    "image_path": "demo_data/images/step_0455.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7257993868875409,
+      -0.6254508188253239,
+      0.0,
+      -2.356,
+      0.0,
+      2.101197576058781,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 456,
+    "image_path": "demo_data/images/step_0456.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6870040987146742,
+      -0.6349593118174583,
+      0.0,
+      -2.356,
+      0.0,
+      2.1093839785992246,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 457,
+    "image_path": "demo_data/images/step_0457.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6471097505369254,
+      -0.6445278190843491,
+      0.0,
+      -2.356,
+      0.0,
+      2.117085871898757,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 458,
+    "image_path": "demo_data/images/step_0458.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6061801648010353,
+      -0.6541525133506687,
+      0.0,
+      -2.356,
+      0.0,
+      2.1242963247732716,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 459,
+    "image_path": "demo_data/images/step_0459.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.564280820113002,
+      -0.6638295448670382,
+      0.0,
+      -2.356,
+      0.0,
+      2.131008848301871,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 460,
+    "image_path": "demo_data/images/step_0460.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5214787464862722,
+      -0.6735550429498771,
+      0.0,
+      -2.356,
+      0.0,
+      2.1372174016664625,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 461,
+    "image_path": "demo_data/images/step_0461.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4778424181080344,
+      -0.6833251175296222,
+      0.0,
+      -2.356,
+      0.0,
+      2.142916397588082,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 462,
+    "image_path": "demo_data/images/step_0462.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4334416437951029,
+      -0.6931358607067085,
+      0.0,
+      -2.356,
+      0.0,
+      2.1481007073550713,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 463,
+    "image_path": "demo_data/images/step_0463.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.38834745531471865,
+      -0.7029833483146732,
+      0.0,
+      -2.356,
+      0.0,
+      2.15276566543857,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 464,
+    "image_path": "demo_data/images/step_0464.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.34263199374886943,
+      -0.7128636414897714,
+      0.0,
+      -2.356,
+      0.0,
+      2.1569070736911784,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 465,
+    "image_path": "demo_data/images/step_0465.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.29636839408394505,
+      -0.7227727882464692,
+      0.0,
+      -2.356,
+      0.0,
+      2.1605212051250056,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 466,
+    "image_path": "demo_data/images/step_0466.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.24963066821037594,
+      -0.7327068250581824,
+      0.0,
+      -2.356,
+      0.0,
+      2.163604807265708,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 467,
+    "image_path": "demo_data/images/step_0467.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.20249358651937266,
+      -0.7426617784426394,
+      0.0,
+      -2.356,
+      0.0,
+      2.166155105079496,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 468,
+    "image_path": "demo_data/images/step_0468.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.1550325582862663,
+      -0.7526336665512171,
+      0.0,
+      -2.356,
+      0.0,
+      2.1681698034704766,
+      0.785
+    ],
+    "coverage": 50.0
+  },
+  {
+    "step": 469,
+    "image_path": "demo_data/images/step_0469.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.10732351103174624,
+      -0.7626185007616298,
+      0.0,
+      -2.356,
+      0.0,
+      2.169647089346086,
+      0.785
+    ],
+    "coverage": 52.25
+  },
+  {
+    "step": 470,
+    "image_path": "demo_data/images/step_0470.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.0594427690540409,
+      -0.7726122872733211,
+      0.0,
+      -2.356,
+      0.0,
+      2.1705856332487503,
+      0.785
+    ],
+    "coverage": 52.25
+  },
+  {
+    "step": 471,
+    "image_path": "demo_data/images/step_0471.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.011466931326296864,
+      -0.7826110287049358,
+      0.0,
+      -2.356,
+      0.0,
+      2.1709845905523073,
+      0.785
+    ],
+    "coverage": 52.25
+  },
+  {
+    "step": 472,
+    "image_path": "demo_data/images/step_0472.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.036527251045421025,
+      -0.7926107256932159,
+      0.0,
+      -2.356,
+      0.0,
+      2.170843602222112,
+      0.785
+    ],
+    "coverage": 53.5
+  },
+  {
+    "step": 473,
+    "image_path": "demo_data/images/step_0473.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.08446299760753513,
+      -0.8026073784926946,
+      0.0,
+      -2.356,
+      0.0,
+      2.170162795138145,
+      0.785
+    ],
+    "coverage": 53.5
+  },
+  {
+    "step": 474,
+    "image_path": "demo_data/images/step_0474.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.13226362139128478,
+      -0.8125969885755373,
+      0.0,
+      -2.356,
+      0.0,
+      2.168942781980829,
+      0.785
+    ],
+    "coverage": 53.5
+  },
+  {
+    "step": 475,
+    "image_path": "demo_data/images/step_0475.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.1798526515955428,
+      -0.8225755602309047,
+      0.0,
+      -2.356,
+      0.0,
+      2.1671846606796574,
+      0.785
+    ],
+    "coverage": 53.5
+  },
+  {
+    "step": 476,
+    "image_path": "demo_data/images/step_0476.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.22715395592376736,
+      -0.8325391021631805,
+      0.0,
+      -2.356,
+      0.0,
+      2.1648900134251314,
+      0.785
+    ],
+    "coverage": 54.25
+  },
+  {
+    "step": 477,
+    "image_path": "demo_data/images/step_0477.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2740918623794442,
+      -0.8424836290884382,
+      0.0,
+      -2.356,
+      0.0,
+      2.1620609052448962,
+      0.785
+    ],
+    "coverage": 54.25
+  },
+  {
+    "step": 478,
+    "image_path": "demo_data/images/step_0478.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.32059128032512196,
+      -0.8524051633284978,
+      0.0,
+      -2.356,
+      0.0,
+      2.158699882145355,
+      0.785
+    ],
+    "coverage": 54.25
+  },
+  {
+    "step": 479,
+    "image_path": "demo_data/images/step_0479.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.3665778206114385,
+      -0.8622997364019495,
+      0.0,
+      -2.356,
+      0.0,
+      2.1548099688204347,
+      0.785
+    ],
+    "coverage": 55.50000000000001
+  },
+  {
+    "step": 480,
+    "image_path": "demo_data/images/step_0480.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.41197791458387445,
+      -0.8721633906114898,
+      0.0,
+      -2.356,
+      0.0,
+      2.150394665929567,
+      0.785
+    ],
+    "coverage": 55.50000000000001
+  },
+  {
+    "step": 481,
+    "image_path": "demo_data/images/step_0481.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.45671893177691464,
+      -0.8819921806269495,
+      0.0,
+      -2.356,
+      0.0,
+      2.1454579469473285,
+      0.785
+    ],
+    "coverage": 56.25
+  },
+  {
+    "step": 482,
+    "image_path": "demo_data/images/step_0482.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5007292961072837,
+      -0.8917821750633694,
+      0.0,
+      -2.356,
+      0.0,
+      2.1400042545875864,
+      0.785
+    ],
+    "coverage": 56.25
+  },
+  {
+    "step": 483,
+    "image_path": "demo_data/images/step_0483.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.543938600380434,
+      -0.9015294580535073,
+      0.0,
+      -2.356,
+      0.0,
+      2.13403849680535,
+      0.785
+    ],
+    "coverage": 56.99999999999999
+  },
+  {
+    "step": 484,
+    "image_path": "demo_data/images/step_0484.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5862777189270215,
+      -0.9112301308141291,
+      0.0,
+      -2.356,
+      0.0,
+      2.1275660423799474,
+      0.785
+    ],
+    "coverage": 56.99999999999999
+  },
+  {
+    "step": 485,
+    "image_path": "demo_data/images/step_0485.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6276789181892393,
+      -0.9208803132054721,
+      0.0,
+      -2.356,
+      0.0,
+      2.120592716083484,
+      0.785
+    ],
+    "coverage": 57.75
+  },
+  {
+    "step": 486,
+    "image_path": "demo_data/images/step_0486.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6680759650800451,
+      -0.9304761452832454,
+      0.0,
+      -2.356,
+      0.0,
+      2.1131247934389403,
+      0.785
+    ],
+    "coverage": 57.75
+  },
+  {
+    "step": 487,
+    "image_path": "demo_data/images/step_0487.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7074042329419945,
+      -0.9400137888425615,
+      0.0,
+      -2.356,
+      0.0,
+      2.105168995072628,
+      0.785
+    ],
+    "coverage": 59.0
+  },
+  {
+    "step": 488,
+    "image_path": "demo_data/images/step_0488.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7456008049360913,
+      -0.9494894289531636,
+      0.0,
+      -2.356,
+      0.0,
+      2.096732480666075,
+      0.785
+    ],
+    "coverage": 59.0
+  },
+  {
+    "step": 489,
+    "image_path": "demo_data/images/step_0489.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7826045746953123,
+      -0.9588992754853476,
+      0.0,
+      -2.356,
+      0.0,
+      2.087822842512801,
+      0.785
+    ],
+    "coverage": 59.5
+  },
+  {
+    "step": 490,
+    "image_path": "demo_data/images/step_0490.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8183563440817627,
+      -0.9682395646259643,
+      0.0,
+      -2.356,
+      0.0,
+      2.0784480986857607,
+      0.785
+    ],
+    "coverage": 59.5
+  },
+  {
+    "step": 491,
+    "image_path": "demo_data/images/step_0491.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8527989178910549,
+      -0.9775065603838914,
+      0.0,
+      -2.356,
+      0.0,
+      2.068616685821622,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 492,
+    "image_path": "demo_data/images/step_0492.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8858771953524547,
+      -0.9866965560843848,
+      0.0,
+      -2.356,
+      0.0,
+      2.0583374515283626,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 493,
+    "image_path": "demo_data/images/step_0493.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9175382582783465,
+      -0.9958058758516961,
+      0.0,
+      -2.356,
+      0.0,
+      2.047619646423019,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 494,
+    "image_path": "demo_data/images/step_0494.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9477314557220515,
+      -1.004830876079375,
+      0.0,
+      -2.356,
+      0.0,
+      2.036472915806755,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 495,
+    "image_path": "demo_data/images/step_0495.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9764084850085264,
+      -1.0137679468876608,
+      0.0,
+      -2.356,
+      0.0,
+      2.0249072909847454,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 496,
+    "image_path": "demo_data/images/step_0496.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0035234690083554,
+      -1.02261351356739,
+      0.0,
+      -2.356,
+      0.0,
+      2.012933180238672,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 497,
+    "image_path": "demo_data/images/step_0497.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0290330295313603,
+      -1.0313640380098301,
+      0.0,
+      -2.356,
+      0.0,
+      2.000561359459978,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 498,
+    "image_path": "demo_data/images/step_0498.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0528963567224556,
+      -1.040016020121877,
+      0.0,
+      -2.356,
+      0.0,
+      1.9878029624522924,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 499,
+    "image_path": "demo_data/images/step_0499.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0750752743487033,
+      -1.048565999226043,
+      0.0,
+      -2.356,
+      0.0,
+      1.974669470911756,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 500,
+    "image_path": "demo_data/images/step_0500.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.095534300873153,
+      -1.057010555444685,
+      0.0,
+      -2.356,
+      0.0,
+      1.96117270409427,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 501,
+    "image_path": "demo_data/images/step_0501.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1142407062177258,
+      -1.065346311067908,
+      0.0,
+      -2.356,
+      0.0,
+      1.9473248081789676,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 502,
+    "image_path": "demo_data/images/step_0502.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1311645641243586,
+      -1.0735699319046055,
+      0.0,
+      -2.356,
+      0.0,
+      1.9331382453374664,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 503,
+    "image_path": "demo_data/images/step_0503.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1462788000306279,
+      -1.0816781286160884,
+      0.0,
+      -2.356,
+      0.0,
+      1.918625782518759,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 504,
+    "image_path": "demo_data/images/step_0504.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.159559234383284,
+      -1.0896676580317806,
+      0.0,
+      -2.356,
+      0.0,
+      1.9038004799598218,
+      0.785
+    ],
+    "coverage": 59.75
+  },
+  {
+    "step": 505,
+    "image_path": "demo_data/images/step_0505.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1709846213203705,
+      -1.097535324446441,
+      0.0,
+      -2.356,
+      0.0,
+      1.8886756794322794,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 506,
+    "image_path": "demo_data/images/step_0506.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1805366826600754,
+      -1.105277980898406,
+      0.0,
+      -2.356,
+      0.0,
+      1.873264992235712,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 507,
+    "image_path": "demo_data/images/step_0507.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1882001371419173,
+      -1.1128925304283268,
+      0.0,
+      -2.356,
+      0.0,
+      1.8575822869484084,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 508,
+    "image_path": "demo_data/images/step_0508.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1939627248735094,
+      -1.1203759273179186,
+      0.0,
+      -2.356,
+      0.0,
+      1.8416416769465744,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 509,
+    "image_path": "demo_data/images/step_0509.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1978152269437676,
+      -1.1277251783082023,
+      0.0,
+      -2.356,
+      0.0,
+      1.8254575077032544,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 510,
+    "image_path": "demo_data/images/step_0510.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.199751480171203,
+      -1.1349373437967718,
+      0.0,
+      -2.356,
+      0.0,
+      1.809044343878368,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 511,
+    "image_path": "demo_data/images/step_0511.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1997683869636968,
+      -1.142009539013591,
+      0.0,
+      -2.356,
+      0.0,
+      1.7924169562115015,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 512,
+    "image_path": "demo_data/images/step_0512.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1978659202739874,
+      -1.1489389351748684,
+      0.0,
+      -2.356,
+      0.0,
+      1.7755903082292417,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 513,
+    "image_path": "demo_data/images/step_0513.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1940471236429409,
+      -1.1557227606145302,
+      0.0,
+      -2.356,
+      0.0,
+      1.758579542779007,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 514,
+    "image_path": "demo_data/images/step_0514.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1883181063305335,
+      -1.1623583018928505,
+      0.0,
+      -2.356,
+      0.0,
+      1.7413999684015096,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 515,
+    "image_path": "demo_data/images/step_0515.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1806880335423393,
+      -1.1688429048817912,
+      0.0,
+      -2.356,
+      0.0,
+      1.7240670455541045,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 516,
+    "image_path": "demo_data/images/step_0516.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1711691117671585,
+      -1.1751739758266158,
+      0.0,
+      -2.356,
+      0.0,
+      1.7065963726974165,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 517,
+    "image_path": "demo_data/images/step_0517.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1597765692492361,
+      -1.18134898238336,
+      0.0,
+      -2.356,
+      0.0,
+      1.6890036722577804,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 518,
+    "image_path": "demo_data/images/step_0518.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.146528631626321,
+      -1.1873654546317336,
+      0.0,
+      -2.356,
+      0.0,
+      1.6713047764781221,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 519,
+    "image_path": "demo_data/images/step_0519.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1314464927725325,
+      -1.1932209860630563,
+      0.0,
+      -2.356,
+      0.0,
+      1.6535156131700017,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 520,
+    "image_path": "demo_data/images/step_0520.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.1145542808926885,
+      -1.1989132345428268,
+      0.0,
+      -2.356,
+      0.0,
+      1.6356521913796664,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 521,
+    "image_path": "demo_data/images/step_0521.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0958790199223152,
+      -1.20443992324755,
+      0.0,
+      -2.356,
+      0.0,
+      1.6177305869809813,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 522,
+    "image_path": "demo_data/images/step_0522.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.075450586295122,
+      -1.209798841575432,
+      0.0,
+      -2.356,
+      0.0,
+      1.599766928208232,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 523,
+    "image_path": "demo_data/images/step_0523.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0533016611470774,
+      -1.214987846030593,
+      0.0,
+      -2.356,
+      0.0,
+      1.581777381141806,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 524,
+    "image_path": "demo_data/images/step_0524.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0294676780335699,
+      -1.2200048610804364,
+      0.0,
+      -2.356,
+      0.0,
+      1.563778135159804,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 525,
+    "image_path": "demo_data/images/step_0525.png",
+    "instruction": "paint the wall",
+    "action": [
+      1.0039867662432673,
+      -1.224847879985835,
+      0.0,
+      -2.356,
+      0.0,
+      1.5457853883686954,
+      0.785
+    ],
+    "coverage": 60.0
+  },
+  {
+    "step": 526,
+    "image_path": "demo_data/images/step_0526.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9768996897993961,
+      -1.2295149656037996,
+      0.0,
+      -2.356,
+      0.0,
+      1.527815333026121,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 527,
+    "image_path": "demo_data/images/step_0527.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9482497822459959,
+      -1.2340042511623102,
+      0.0,
+      -2.356,
+      0.0,
+      1.5098841409689456,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 528,
+    "image_path": "demo_data/images/step_0528.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.9180828773235029,
+      -1.238313941006999,
+      0.0,
+      -2.356,
+      0.0,
+      1.4920079490597002,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 529,
+    "image_path": "demo_data/images/step_0529.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8864472356445274,
+      -1.2424423113193903,
+      0.0,
+      -2.356,
+      0.0,
+      1.4742028446644988,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 530,
+    "image_path": "demo_data/images/step_0530.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8533934674871788,
+      -1.2463877108064034,
+      0.0,
+      -2.356,
+      0.0,
+      1.4564848511754873,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 531,
+    "image_path": "demo_data/images/step_0531.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.8189744518294114,
+      -1.2501485613608483,
+      0.0,
+      -2.356,
+      0.0,
+      1.4388699135908762,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 532,
+    "image_path": "demo_data/images/step_0532.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7832452517539518,
+      -1.2537233586926466,
+      0.0,
+      -2.356,
+      0.0,
+      1.421373884165521,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 533,
+    "image_path": "demo_data/images/step_0533.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7462630263590949,
+      -1.2571106729305295,
+      0.0,
+      -2.356,
+      0.0,
+      1.4040125081449562,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 534,
+    "image_path": "demo_data/images/step_0534.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.7080869393163519,
+      -1.260309149193965,
+      0.0,
+      -2.356,
+      0.0,
+      1.3868014095957442,
+      0.785
+    ],
+    "coverage": 60.25
+  },
+  {
+    "step": 535,
+    "image_path": "demo_data/images/step_0535.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6687780642211901,
+      -1.2633175081350942,
+      0.0,
+      -2.356,
+      0.0,
+      1.3697560773448632,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 536,
+    "image_path": "demo_data/images/step_0536.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.6283992868883226,
+      -1.2661345464504508,
+      0.0,
+      -2.356,
+      0.0,
+      1.3528918510408166,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 537,
+    "image_path": "demo_data/images/step_0537.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5870152047477988,
+      -1.2687591373622689,
+      0.0,
+      -2.356,
+      0.0,
+      1.3362239073489728,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 538,
+    "image_path": "demo_data/images/step_0538.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5446920235029101,
+      -1.271190231069178,
+      0.0,
+      -2.356,
+      0.0,
+      1.319767246293604,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 539,
+    "image_path": "demo_data/images/step_0539.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.5014974512151847,
+      -1.2734268551661094,
+      0.0,
+      -2.356,
+      0.0,
+      1.303536677758871,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 540,
+    "image_path": "demo_data/images/step_0540.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.45750058998592813,
+      -1.2754681150332459,
+      0.0,
+      -2.356,
+      0.0,
+      1.2875468081609203,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 541,
+    "image_path": "demo_data/images/step_0541.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.41277182540761875,
+      -1.2773131941938565,
+      0.0,
+      -2.356,
+      0.0,
+      1.2718120273031084,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 542,
+    "image_path": "demo_data/images/step_0542.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.36738271396195027,
+      -1.2789613546408778,
+      0.0,
+      -2.356,
+      0.0,
+      1.2563464954261432,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 543,
+    "image_path": "demo_data/images/step_0543.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.32140586854474185,
+      -1.2804119371321065,
+      0.0,
+      -2.356,
+      0.0,
+      1.2411641304648182,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 544,
+    "image_path": "demo_data/images/step_0544.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.2749148423007862,
+      -1.281664361453887,
+      0.0,
+      -2.356,
+      0.0,
+      1.2262785955228215,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 545,
+    "image_path": "demo_data/images/step_0545.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.22798401095452528,
+      -1.2827181266531889,
+      0.0,
+      -2.356,
+      0.0,
+      1.2117032865768596,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 546,
+    "image_path": "demo_data/images/step_0546.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.18068845382473225,
+      -1.2835728112379825,
+      0.0,
+      -2.356,
+      0.0,
+      1.1974513204211759,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 547,
+    "image_path": "demo_data/images/step_0547.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.13310383371363405,
+      -1.28422807334583,
+      0.0,
+      -2.356,
+      0.0,
+      1.1835355228633337,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 548,
+    "image_path": "demo_data/images/step_0548.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.08530627586255991,
+      -1.2846836508806248,
+      0.0,
+      -2.356,
+      0.0,
+      1.1699684171818485,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 549,
+    "image_path": "demo_data/images/step_0549.png",
+    "instruction": "paint the wall",
+    "action": [
+      0.037372246167811554,
+      -1.2849393616174272,
+      0.0,
+      -2.356,
+      0.0,
+      1.1567622128560786,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 550,
+    "image_path": "demo_data/images/step_0550.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.010621571148484651,
+      -1.2849951032753517,
+      0.0,
+      -2.356,
+      0.0,
+      1.1439287945785261,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 551,
+    "image_path": "demo_data/images/step_0551.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.05859839621675761,
+      -1.2848508535584786,
+      0.0,
+      -2.356,
+      0.0,
+      1.1314797115594115,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 552,
+    "image_path": "demo_data/images/step_0552.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.10648147635141252,
+      -1.2845066701647716,
+      0.0,
+      -2.356,
+      0.0,
+      1.1194261671331656,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 553,
+    "image_path": "demo_data/images/step_0553.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.1541942088387377,
+      -1.2839626907629986,
+      0.0,
+      -2.356,
+      0.0,
+      1.1077790086761787,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 554,
+    "image_path": "demo_data/images/step_0554.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.20166026348493113,
+      -1.2832191329376674,
+      0.0,
+      -2.356,
+      0.0,
+      1.0965487178449047,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 555,
+    "image_path": "demo_data/images/step_0555.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.24880370472811053,
+      -1.2822762941019947,
+      0.0,
+      -2.356,
+      0.0,
+      1.0857454011430707,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 556,
+    "image_path": "demo_data/images/step_0556.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.295549113119022,
+      -1.2811345513789432,
+      0.0,
+      -2.356,
+      0.0,
+      1.0753787808265038,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 557,
+    "image_path": "demo_data/images/step_0557.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.3418217059760537,
+      -1.279794361450379,
+      0.0,
+      -2.356,
+      0.0,
+      1.0654581861537646,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 558,
+    "image_path": "demo_data/images/step_0558.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.38754745702159876,
+      -1.2782562603744052,
+      0.0,
+      -2.356,
+      0.0,
+      1.0559925449904393,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 559,
+    "image_path": "demo_data/images/step_0559.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.4326532148082907,
+      -1.2765208633709442,
+      0.0,
+      -2.356,
+      0.0,
+      1.0469903757746613,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 560,
+    "image_path": "demo_data/images/step_0560.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.47706681974572335,
+      -1.2745888645756585,
+      0.0,
+      -2.356,
+      0.0,
+      1.0384597798510973,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 561,
+    "image_path": "demo_data/images/step_0561.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.520717219540386,
+      -1.2724610367623073,
+      0.0,
+      -2.356,
+      0.0,
+      1.030408434180282,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 562,
+    "image_path": "demo_data/images/step_0562.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.5635345828641998,
+      -1.270138231033645,
+      0.0,
+      -2.356,
+      0.0,
+      1.0228435844298673,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 563,
+    "image_path": "demo_data/images/step_0563.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6054504110697302,
+      -1.2676213764809927,
+      0.0,
+      -2.356,
+      0.0,
+      1.0157720384540179,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 564,
+    "image_path": "demo_data/images/step_0564.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6463976477734152,
+      -1.2649114798126142,
+      0.0,
+      -2.356,
+      0.0,
+      1.0092001601667975,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 565,
+    "image_path": "demo_data/images/step_0565.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.6863107861314766,
+      -1.2620096249510446,
+      0.0,
+      -2.356,
+      0.0,
+      1.0031338638150746,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 566,
+    "image_path": "demo_data/images/step_0566.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7251259736368834,
+      -1.2589169725995384,
+      0.0,
+      -2.356,
+      0.0,
+      0.9975786086561039,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 567,
+    "image_path": "demo_data/images/step_0567.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7627811142697623,
+      -1.2556347597778008,
+      0.0,
+      -2.356,
+      0.0,
+      0.9925393940445606,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 568,
+    "image_path": "demo_data/images/step_0568.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.7992159678377686,
+      -1.252164299327199,
+      0.0,
+      -2.356,
+      0.0,
+      0.9880207549334571,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 569,
+    "image_path": "demo_data/images/step_0569.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.8343722463475511,
+      -1.24850697938564,
+      0.0,
+      -2.356,
+      0.0,
+      0.984026757792995,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 570,
+    "image_path": "demo_data/images/step_0570.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.868193707253094,
+      -1.2446642628323379,
+      0.0,
+      -2.356,
+      0.0,
+      0.9805609969510143,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 571,
+    "image_path": "demo_data/images/step_0571.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9006262434318115,
+      -1.2406376867026778,
+      0.0,
+      -2.356,
+      0.0,
+      0.9776265913583403,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 572,
+    "image_path": "demo_data/images/step_0572.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9316179697443902,
+      -1.236428861573425,
+      0.0,
+      -2.356,
+      0.0,
+      0.9752261817819402,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 573,
+    "image_path": "demo_data/images/step_0573.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9611193060399478,
+      -1.2320394709185136,
+      0.0,
+      -2.356,
+      0.0,
+      0.9733619284284104,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 574,
+    "image_path": "demo_data/images/step_0574.png",
+    "instruction": "paint the wall",
+    "action": [
+      -0.9890830564736891,
+      -1.2274712704356818,
+      0.0,
+      -2.356,
+      0.0,
+      0.9720355089999351,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 575,
+    "image_path": "demo_data/images/step_0575.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0154644850102048,
+      -1.2227260873442143,
+      0.0,
+      -2.356,
+      0.0,
+      0.9712481171844697,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 576,
+    "image_path": "demo_data/images/step_0576.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0402213869915742,
+      -1.217805819654079,
+      0.0,
+      -2.356,
+      0.0,
+      0.9710004615815006,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 577,
+    "image_path": "demo_data/images/step_0577.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0633141566558197,
+      -1.212712435406749,
+      0.0,
+      -2.356,
+      0.0,
+      0.9712927650643544,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 578,
+    "image_path": "demo_data/images/step_0578.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.0847058504976699,
+      -1.2074479718880131,
+      0.0,
+      -2.356,
+      0.0,
+      0.9721247645796263,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 579,
+    "image_path": "demo_data/images/step_0579.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1043622463702971,
+      -1.2020145348130866,
+      0.0,
+      -2.356,
+      0.0,
+      0.9734957113839109,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 580,
+    "image_path": "demo_data/images/step_0580.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1222518982334466,
+      -1.1964142974843543,
+      0.0,
+      -2.356,
+      0.0,
+      0.9754043717176201,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 581,
+    "image_path": "demo_data/images/step_0581.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1383461864603939,
+      -1.190649499922079,
+      0.0,
+      -2.356,
+      0.0,
+      0.9778490279152849,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 582,
+    "image_path": "demo_data/images/step_0582.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.152619363623238,
+      -1.184722447968423,
+      0.0,
+      -2.356,
+      0.0,
+      0.9808274799513365,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 583,
+    "image_path": "demo_data/images/step_0583.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.165048595683302,
+      -1.1786355123651413,
+      0.0,
+      -2.356,
+      0.0,
+      0.9843370474199814,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 584,
+    "image_path": "demo_data/images/step_0584.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1756139985207181,
+      -1.172391127805317,
+      0.0,
+      -2.356,
+      0.0,
+      0.9883745719473875,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 585,
+    "image_path": "demo_data/images/step_0585.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1842986697447793,
+      -1.1659917919595162,
+      0.0,
+      -2.356,
+      0.0,
+      0.9929364200340044,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 586,
+    "image_path": "demo_data/images/step_0586.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1910887157341563,
+      -1.1594400644767549,
+      0.0,
+      -2.356,
+      0.0,
+      0.998018486324469,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 587,
+    "image_path": "demo_data/images/step_0587.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1959732738637334,
+      -1.1527385659606706,
+      0.0,
+      -2.356,
+      0.0,
+      1.0036161973021502,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 588,
+    "image_path": "demo_data/images/step_0588.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1989445298824868,
+      -1.1458899769213176,
+      0.0,
+      -2.356,
+      0.0,
+      1.0097245154050019,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 589,
+    "image_path": "demo_data/images/step_0589.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1999977304146203,
+      -1.1388970367029982,
+      0.0,
+      -2.356,
+      0.0,
+      1.0163379435590296,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 590,
+    "image_path": "demo_data/images/step_0590.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1991311905639532,
+      -1.1317625423885613,
+      0.0,
+      -2.356,
+      0.0,
+      1.0234505301252894,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 591,
+    "image_path": "demo_data/images/step_0591.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1963462966093947,
+      -1.1244893476806084,
+      0.0,
+      -2.356,
+      0.0,
+      1.031055874255956,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 592,
+    "image_path": "demo_data/images/step_0592.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1916475037871932,
+      -1.1170803617600475,
+      0.0,
+      -2.356,
+      0.0,
+      1.0391471316546559,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 593,
+    "image_path": "demo_data/images/step_0593.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1850423291635086,
+      -1.109538548122462,
+      0.0,
+      -2.356,
+      0.0,
+      1.0477170207358761,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 594,
+    "image_path": "demo_data/images/step_0594.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.176541339608709,
+      -1.1018669233927496,
+      0.0,
+      -2.356,
+      0.0,
+      1.0567578291778927,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 595,
+    "image_path": "demo_data/images/step_0595.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.166158134892636,
+      -1.0940685561185166,
+      0.0,
+      -2.356,
+      0.0,
+      1.066261420863343,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 596,
+    "image_path": "demo_data/images/step_0596.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1539093259278688,
+      -1.0861465655426956,
+      0.0,
+      -2.356,
+      0.0,
+      1.0762192432011852,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 597,
+    "image_path": "demo_data/images/step_0597.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1398145081958118,
+      -1.0781041203558914,
+      0.0,
+      -2.356,
+      0.0,
+      1.0866223348234472,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 598,
+    "image_path": "demo_data/images/step_0598.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.1238962303981002,
+      -1.0699444374289468,
+      0.0,
+      -2.356,
+      0.0,
+      1.0974613336498553,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  },
+  {
+    "step": 599,
+    "image_path": "demo_data/images/step_0599.png",
+    "instruction": "paint the wall",
+    "action": [
+      -1.106179958383495,
+      -1.0616707805262402,
+      0.0,
+      -2.356,
+      0.0,
+      1.1087264853130787,
+      0.785
+    ],
+    "coverage": 60.75000000000001
+  }
+]
