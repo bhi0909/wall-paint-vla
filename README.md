@@ -14,85 +14,58 @@ This project builds a VLA (vision-language-action model) for wall painting from 
 
 ## Full Roadmap
 
-### 🟢 Phase 1 — Simulation environment
-Built a MuJoCo simulation environment with a Franka Panda arm and a wall surface. Implemented a 20×20 paint coverage grid that tracks which regions of the wall have been painted as the arm moves across it. A scripted oracle policy sweeps the arm in a sinusoidal pattern, achieving ~60% wall coverage per episode.
+### Phase 1 - Simulation environment (COMPLETE)
+Built a MuJoCo simulation environment with a Franka Panda arm and a wall surface. Implemented a 20x20 paint coverage grid. A scripted oracle policy achieves ~60% wall coverage per episode.
 
-### 🟢 Phase 2 — Demonstration data collection
-Collected 600 timesteps of demonstration data from the scripted policy. Each timestep is saved as a tuple of:
-- Camera image (128×128 RGB)
-- Language instruction ("paint the wall")
-- Robot joint positions (7-DOF)
-- Paint coverage percentage
+### Phase 2 - Demonstration data collection (COMPLETE)
+Collected 600 timesteps of demonstration data. Each timestep: camera image (128x128 RGB), language instruction, robot joint positions (7-DOF), paint coverage percentage.
 
-### 🟢 Phase 3 — VLA training (behavioral cloning)
-Built a custom VLA architecture combining:
-- **MobileNetV3** (pretrained, frozen) as the vision encoder
-- **DistilBERT** (pretrained, frozen) as the language encoder
-- A 3-layer MLP action head (trainable) that maps fused visual and language features to 7 joint angles
+### Phase 3 - VLA training (COMPLETE)
+Built a custom VLA: MobileNetV3 (vision) + DistilBERT (language) + MLP action head. Trained 50 epochs, loss 0.28 to 0.004, joint error under 1 degree.
 
-Trained for 50 epochs using behavioral cloning (imitation learning). Loss decreased from 0.28 to 0.004. Mean joint prediction error on held-out timesteps: under 1 degree.
+### Phase 4 - Sim evaluation (COMPLETE)
+Open-loop evaluation achieved 69.8% wall coverage vs 60.8% scripted baseline.
 
-### ⬜ Phase 4 — Sim evaluation
-Run the trained VLA in simulation, replacing the scripted policy with the model's predictions. Measure wall coverage achieved by the learned policy vs the scripted baseline.
+### Phase 5 - Painting quality scorer (PLANNED)
+Train a quality classifier on real human painting footage using SAM2 + DINOv2 (Meta FAIR).
 
-### ⬜ Phase 5 — Painting quality scorer from human video
-Train a vision-based painting quality classifier on real human painting footage (1+ hour of expert painting video). The scorer will evaluate stroke evenness, coverage uniformity, and technique — providing a reward signal that goes beyond simple coverage percentage. This is a novel approach: instead of hand-crafting a reward function, we derive it directly from human expert video.
+### Phase 6 - Policy improvement (PLANNED)
+Use quality scorer as reward signal to fine-tune VLA beyond behavioral cloning.
 
-### ⬜ Phase 6 — Policy improvement via quality reward
-Use the painting quality scorer as a reward signal to further fine-tune the VLA policy beyond what behavioral cloning alone achieves. The goal is to produce a robot that paints not just by copying demonstrations, but by painting the way a skilled human would.
+### Phase 7 - Few-shot stroke adaptation (PLANNED)
+Adapt to new painting styles from just 5-10 demonstrations.
 
-### ⬜ Phase 7 — Few-shot stroke adaptation
-Demonstrate that the trained policy can adapt to new painting styles (horizontal strokes, vertical strokes, corner technique) from just 5–10 new demonstrations. This tests the model's ability to generalize quickly to task variations — a key requirement for practical deployment.
-
-### ⬜ Phase 8 — Real robot transfer
-Transfer the simulation-trained policy to a physical robot arm. Evaluate real-world painting performance and address the sim-to-real gap.
+### Phase 8 - Real robot transfer (PLANNED)
+Transfer to a physical robot arm.
 
 ---
 
-## Current Results
+## Results
 
 | Metric | Value |
 |---|---|
 | Scripted policy coverage | 60.8% |
+| VLA coverage (open-loop) | 69.8% |
+| Improvement over baseline | +9% |
 | Training loss (epoch 0) | 0.2809 |
 | Training loss (epoch 50) | 0.0040 |
-| Mean joint error (step 0) | 0.26 degrees |
-| Mean joint error (step 200) | 0.97 degrees |
-| Mean joint error (step 400) | 0.35 degrees |
-
----
-
-## Repository Structure
-
-```
-wall-paint-vla/
-├── demo_data/
-│   ├── images/          # 600 PNG frames from simulation
-│   └── metadata.json    # timestep data (image path, instruction, action, coverage)
-├── rlds_dataset/        # demo data in RLDS format
-├── setup.sh             # clones mujoco_menagerie
-└── README.md
-```
+| Mean joint error | <1 degree |
 
 ---
 
 ## Stack
 
-- **Simulation**: MuJoCo 3.x + mujoco_menagerie (Franka Panda)
-- **Vision encoder**: MobileNetV3 (torchvision)
-- **Language encoder**: DistilBERT (HuggingFace)
-- **Training**: PyTorch, behavioral cloning
-- **Environment**: Google Colab (A100 GPU)
+- Simulation: MuJoCo 3.x + mujoco_menagerie (Franka Panda)
+- Vision encoder: MobileNetV3 (torchvision)
+- Language encoder: DistilBERT (HuggingFace)
+- Training: PyTorch, behavioral cloning
+- Environment: Google Colab (A100 GPU)
 
 ---
 
 ## Setup
 
-```bash
 git clone https://github.com/bhi0909/wall-paint-vla.git
 cd wall-paint-vla
-bash setup.sh   # clones mujoco_menagerie
+bash setup.sh
 pip install mujoco dm_control gymnasium torch torchvision transformers
-```
-
-Demo data is included in the repository. Model weights are stored separately in Google Drive due to file size.
